@@ -99,6 +99,6 @@ var Episode = React.createClass({
 });
 
 React.renderComponent(
-  <Seasons url="/episodes.json" />,
+  <Seasons url="episodes.json" />,
   document.getElementById('container')
 );
