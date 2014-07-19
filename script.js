@@ -68,18 +68,12 @@ var Season = React.createClass({
     var picked = this.props.data.picks.map(function(pick, index){
       return episodes[pick - 1];
     }.bind(this));
-    console.log(picked);
     this.setState({filteredEps: picked});
   },
   render: function() {
     var epNodes = this.state.filteredEps.map(function (ep, index){
       return (
-        <li className="episode" key={index}>
-          <header>
-            <h3><a href={ep.title.href}>{ep.title.text}</a> <small>Rating: {ep.rating}</small></h3>
-            <p>{ep.episode}</p>
-          </header>
-        </li>
+        <Episode key={index} data={ep} />
       )
     });
     return (
@@ -87,6 +81,19 @@ var Season = React.createClass({
         <h2>Season {this.props.key + 1}</h2>
         <ul className="episodes">{epNodes}</ul>
       </div>
+    )
+  }
+});
+
+var Episode = React.createClass({
+  render: function() {
+    return (
+      <li className="episode" key={this.props.key}>
+        <header>
+          <h3><a href={this.props.data.title.href}>{this.props.data.title.text}</a> <small>Rating: {this.props.data.rating}</small></h3>
+          <p>{this.props.data.episode}</p>
+        </header>
+      </li>
     )
   }
 });
