@@ -4,12 +4,21 @@ var Seasons = React.createClass({
     return {data: []};
   },
   loadSeasonsFromServer: function() {
-    $.ajax({
-      url: this.props.url,
-      success: function(data) {
-        this.setState({data: data});
-      }.bind(this),
-    });
+    var localEps = localStorage.getItem('episodes');
+    if (!localEps) {
+      console.log('ajax');
+      $.ajax({
+        url: this.props.url,
+        success: function(data) {
+          localStorage.setItem('episodes', JSON.stringify(data));
+          this.setState({data: data});
+        }.bind(this),
+      });
+    } else {
+      console.log('local');
+      console.log(JSON.parse(localEps));
+      this.setState({data: JSON.parse(localEps)});
+    }
   },
   componentWillMount: function() {
     this.loadSeasonsFromServer();
@@ -36,6 +45,7 @@ var SeasonList = React.createClass({
     });
   },
   componentWillMount: function() {
+    // console.log(this.props.seasons);
     this.loadPicks(function(picks){
       var seasons = [];
       $.each(this.props.seasons, function(index, season){
@@ -71,9 +81,10 @@ var Season = React.createClass({
     this.setState({filteredEps: picked});
   },
   render: function() {
+    var key = this.props.key;
     var epNodes = this.state.filteredEps.map(function (ep, index){
       return (
-        <Episode key={index} data={ep} />
+        <Episode key={index} data={ep} seasonNo={key} />
       )
     });
     return (
@@ -86,12 +97,25 @@ var Season = React.createClass({
 });
 
 var Episode = React.createClass({
+  getInitialState: function() {
+    return {episode: this.props.data}
+  },
+  saveEp: function() {
+    var localEps = JSON.parse(localStorage.getItem('episodes'));
+    localEps[this.props.seasonNo].episodes[this.state.episode.episode -1].watched = "true";
+    localStorage.setItem('episodes', JSON.stringify(localEps));
+    var ep = this.state.episode;
+    ep.watched = 'true';
+    this.setState({episode: ep});
+  },
   render: function() {
     return (
       <li className="episode" key={this.props.key}>
+        {this.state.episode.watched}
+        <button onClick={this.saveEp}>Save</button>
         <header>
-          <h3><a href={this.props.data.title.href}>{this.props.data.title.text}</a> <small>Rating: {this.props.data.rating}</small></h3>
-          <p>{this.props.data.episode}</p>
+          <h3><a href={this.state.episode.title.href}>{this.state.episode.title.text}</a> <small>Rating: {this.state.episode.rating}</small></h3>
+          <p>{this.state.episode.episode}</p>
         </header>
       </li>
     )

@@ -5,9 +5,10 @@
         "text": "Emissary (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/emissary-1-20814/"
       },
-      "episode": "Episode 1",
+      "episode": "1",
       "date": "1/3/93",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/emissary-1-20814/",
         "src": "http://img2.tvtome.com/i/tve/em/20814.jpg",
@@ -19,9 +20,10 @@
         "text": "Emissary (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/emissary-2-20815/"
       },
-      "episode": "Episode 2",
+      "episode": "2",
       "date": "1/3/93",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/emissary-2-20815/",
         "src": "http://img2.tvtome.com/i/tve/em/20815.jpg",
@@ -33,9 +35,10 @@
         "text": "A Man Alone",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/a-man-alone-20817/"
       },
-      "episode": "Episode 3",
+      "episode": "3",
       "date": "1/17/93",
       "rating": "7.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/a-man-alone-20817/",
         "src": "http://img2.tvtome.com/i/tve/em/20817.jpg",
@@ -47,9 +50,10 @@
         "text": "Past Prologue",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/past-prologue-20816/"
       },
-      "episode": "Episode 4",
+      "episode": "4",
       "date": "1/10/93",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/past-prologue-20816/",
         "src": "http://img2.tvtome.com/i/tve/em/20816.jpg",
@@ -61,9 +65,10 @@
         "text": "Babel",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/babel-20818/"
       },
-      "episode": "Episode 5",
+      "episode": "5",
       "date": "1/24/93",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/babel-20818/",
         "src": "http://img2.tvtome.com/i/tve/em/20818.jpg",
@@ -75,9 +80,10 @@
         "text": "Captive Pursuit",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/captive-pursuit-20819/"
       },
-      "episode": "Episode 6",
+      "episode": "6",
       "date": "1/31/93",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/captive-pursuit-20819/",
         "src": "http://img2.tvtome.com/i/tve/em/20819.jpg",
@@ -89,9 +95,10 @@
         "text": "Q-Less",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/q-less-20820/"
       },
-      "episode": "Episode 7",
+      "episode": "7",
       "date": "2/7/93",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/q-less-20820/",
         "src": "http://img2.tvtome.com/i/tve/em/20820.jpg",
@@ -103,9 +110,10 @@
         "text": "Dax",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/dax-20821/"
       },
-      "episode": "Episode 8",
+      "episode": "8",
       "date": "2/14/93",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/dax-20821/",
         "src": "http://img2.tvtome.com/i/tve/em/20821.jpg",
@@ -117,9 +125,10 @@
         "text": "The Passenger",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-passenger-20822/"
       },
-      "episode": "Episode 9",
+      "episode": "9",
       "date": "2/22/93",
       "rating": "7.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-passenger-20822/",
         "src": "http://img2.tvtome.com/i/tve/em/20822.jpg",
@@ -131,9 +140,10 @@
         "text": "Move Along Home",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/move-along-home-20823/"
       },
-      "episode": "Episode 10",
+      "episode": "10",
       "date": "3/14/93",
       "rating": "6.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/move-along-home-20823/",
         "src": "http://img2.tvtome.com/i/tve/em/20823.jpg",
@@ -145,9 +155,10 @@
         "text": "The Nagus",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-nagus-20824/"
       },
-      "episode": "Episode 11",
+      "episode": "11",
       "date": "3/21/93",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-nagus-20824/",
         "src": "http://img2.tvtome.com/i/tve/em/20824.jpg",
@@ -159,9 +170,10 @@
         "text": "Vortex",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/vortex-20825/"
       },
-      "episode": "Episode 12",
+      "episode": "12",
       "date": "4/18/93",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/vortex-20825/",
         "src": "http://img2.tvtome.com/i/tve/em/20825.jpg",
@@ -173,9 +185,10 @@
         "text": "Battle Lines",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/battle-lines-20826/"
       },
-      "episode": "Episode 13",
+      "episode": "13",
       "date": "4/25/93",
       "rating": "7.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/battle-lines-20826/",
         "src": "http://img2.tvtome.com/i/tve/em/20826.jpg",
@@ -187,9 +200,10 @@
         "text": "The Storyteller",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-storyteller-20827/"
       },
-      "episode": "Episode 14",
+      "episode": "14",
       "date": "5/2/93",
       "rating": "6.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-storyteller-20827/",
         "src": "http://img2.tvtome.com/i/tve/em/20827.jpg",
@@ -201,9 +215,10 @@
         "text": "Progress",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/progress-20828/"
       },
-      "episode": "Episode 15",
+      "episode": "15",
       "date": "5/9/93",
       "rating": "7.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/progress-20828/",
         "src": "http://img2.tvtome.com/i/tve/em/20828.jpg",
@@ -215,9 +230,10 @@
         "text": "If Wishes Were Horses",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/if-wishes-were-horses-20829/"
       },
-      "episode": "Episode 16",
+      "episode": "16",
       "date": "5/16/93",
       "rating": "7.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/if-wishes-were-horses-20829/",
         "src": "http://img2.tvtome.com/i/tve/em/20829.jpg",
@@ -229,9 +245,10 @@
         "text": "The Forsaken",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-forsaken-20830/"
       },
-      "episode": "Episode 17",
+      "episode": "17",
       "date": "5/23/93",
       "rating": "7.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-forsaken-20830/",
         "src": "http://img2.tvtome.com/i/tve/em/20830.jpg",
@@ -243,9 +260,10 @@
         "text": "Dramatis Personae",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/dramatis-personae-20831/"
       },
-      "episode": "Episode 18",
+      "episode": "18",
       "date": "5/30/93",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/dramatis-personae-20831/",
         "src": "http://img2.tvtome.com/i/tve/em/20831.jpg",
@@ -257,9 +275,10 @@
         "text": "Duet",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/duet-20832/"
       },
-      "episode": "Episode 19",
+      "episode": "19",
       "date": "6/13/93",
       "rating": "9.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/duet-20832/",
         "src": "http://img2.tvtome.com/i/tve/em/20832.jpg",
@@ -271,9 +290,10 @@
         "text": "In the Hands of the Prophets",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/in-the-hands-of-the-prophets-20833/"
       },
-      "episode": "Episode 20",
+      "episode": "20",
       "date": "6/20/93",
       "rating": "8.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/in-the-hands-of-the-prophets-20833/",
         "src": "http://img2.tvtome.com/i/tve/em/20833.jpg",
@@ -289,9 +309,10 @@
         "text": "The Homecoming (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-homecoming-1-20834/"
       },
-      "episode": "Episode 1",
+      "episode": "1",
       "date": "9/26/93",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-homecoming-1-20834/",
         "src": "http://img2.tvtome.com/i/tve/em/20834.jpg",
@@ -303,9 +324,10 @@
         "text": "The Circle (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-circle-2-20835/"
       },
-      "episode": "Episode 2",
+      "episode": "2",
       "date": "10/3/93",
       "rating": "8.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-circle-2-20835/",
         "src": "http://img2.tvtome.com/i/tve/em/20835.jpg",
@@ -317,9 +339,10 @@
         "text": "The Siege (3)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-siege-3-20836/"
       },
-      "episode": "Episode 3",
+      "episode": "3",
       "date": "10/10/93",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-siege-3-20836/",
         "src": "http://img2.tvtome.com/i/tve/em/20836.jpg",
@@ -331,9 +354,10 @@
         "text": "Invasive Procedures",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/invasive-procedures-20837/"
       },
-      "episode": "Episode 4",
+      "episode": "4",
       "date": "10/17/93",
       "rating": "7.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/invasive-procedures-20837/",
         "src": "http://img2.tvtome.com/i/tve/em/20837.jpg",
@@ -345,9 +369,10 @@
         "text": "Cardassians",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/cardassians-20838/"
       },
-      "episode": "Episode 5",
+      "episode": "5",
       "date": "10/24/93",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/cardassians-20838/",
         "src": "http://img2.tvtome.com/i/tve/em/20838.jpg",
@@ -359,9 +384,10 @@
         "text": "Melora",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/melora-20839/"
       },
-      "episode": "Episode 6",
+      "episode": "6",
       "date": "10/31/93",
       "rating": "6.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/melora-20839/",
         "src": "http://img2.tvtome.com/i/tve/em/20839.jpg",
@@ -373,9 +399,10 @@
         "text": "Rules of Acquisition",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rules-of-acquisition-20840/"
       },
-      "episode": "Episode 7",
+      "episode": "7",
       "date": "11/7/93",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rules-of-acquisition-20840/",
         "src": "http://img2.tvtome.com/i/tve/em/20840.jpg",
@@ -387,9 +414,10 @@
         "text": "Necessary Evil",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/necessary-evil-20841/"
       },
-      "episode": "Episode 8",
+      "episode": "8",
       "date": "11/14/93",
       "rating": "8.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/necessary-evil-20841/",
         "src": "http://img2.tvtome.com/i/tve/em/20841.jpg",
@@ -401,9 +429,10 @@
         "text": "Second Sight",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/second-sight-20842/"
       },
-      "episode": "Episode 9",
+      "episode": "9",
       "date": "11/21/93",
       "rating": "6.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/second-sight-20842/",
         "src": "http://img2.tvtome.com/i/tve/em/20842.jpg",
@@ -415,9 +444,10 @@
         "text": "Sanctuary",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/sanctuary-20843/"
       },
-      "episode": "Episode 10",
+      "episode": "10",
       "date": "11/28/93",
       "rating": "6.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/sanctuary-20843/",
         "src": "http://img2.tvtome.com/i/tve/em/20843.jpg",
@@ -429,9 +459,10 @@
         "text": "Rivals",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rivals-20844/"
       },
-      "episode": "Episode 11",
+      "episode": "11",
       "date": "1/2/94",
       "rating": "7.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rivals-20844/",
         "src": "http://img2.tvtome.com/i/tve/em/20844.jpg",
@@ -443,9 +474,10 @@
         "text": "The Alternate",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-alternate-20845/"
       },
-      "episode": "Episode 12",
+      "episode": "12",
       "date": "1/9/94",
       "rating": "7.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-alternate-20845/",
         "src": "http://img2.tvtome.com/i/tve/em/20845.jpg",
@@ -457,9 +489,10 @@
         "text": "Armageddon Game",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/armageddon-game-20846/"
       },
-      "episode": "Episode 13",
+      "episode": "13",
       "date": "1/30/94",
       "rating": "8.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/armageddon-game-20846/",
         "src": "http://img2.tvtome.com/i/tve/em/20846.jpg",
@@ -471,9 +504,10 @@
         "text": "Whispers",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/whispers-20847/"
       },
-      "episode": "Episode 14",
+      "episode": "14",
       "date": "2/6/94",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/whispers-20847/",
         "src": "http://img2.tvtome.com/i/tve/em/20847.jpg",
@@ -485,9 +519,10 @@
         "text": "Paradise",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/paradise-20848/"
       },
-      "episode": "Episode 15",
+      "episode": "15",
       "date": "2/13/94",
       "rating": "7.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/paradise-20848/",
         "src": "http://img2.tvtome.com/i/tve/em/20848.jpg",
@@ -499,9 +534,10 @@
         "text": "Shadowplay",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/shadowplay-20850/"
       },
-      "episode": "Episode 16",
+      "episode": "16",
       "date": "2/20/94",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/shadowplay-20850/",
         "src": "http://img2.tvtome.com/i/tve/em/20850.jpg",
@@ -513,9 +549,10 @@
         "text": "Playing God",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/playing-god-20851/"
       },
-      "episode": "Episode 17",
+      "episode": "17",
       "date": "2/27/94",
       "rating": "7.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/playing-god-20851/",
         "src": "http://img2.tvtome.com/i/tve/em/20851.jpg",
@@ -527,9 +564,10 @@
         "text": "Profit and Loss",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/profit-and-loss-20852/"
       },
-      "episode": "Episode 18",
+      "episode": "18",
       "date": "3/20/94",
       "rating": "7.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/profit-and-loss-20852/",
         "src": "http://img2.tvtome.com/i/tve/em/20852.jpg",
@@ -541,9 +579,10 @@
         "text": "Blood Oath",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/blood-oath-20853/"
       },
-      "episode": "Episode 19",
+      "episode": "19",
       "date": "3/27/94",
       "rating": "8.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/blood-oath-20853/",
         "src": "http://img2.tvtome.com/i/tve/em/20853.jpg",
@@ -555,9 +594,10 @@
         "text": "The Maquis (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-maquis-1-20854/"
       },
-      "episode": "Episode 20",
+      "episode": "20",
       "date": "4/24/94",
       "rating": "8.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-maquis-1-20854/",
         "src": "http://img2.tvtome.com/i/tve/em/20854.jpg",
@@ -569,9 +609,10 @@
         "text": "The Maquis (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-maquis-2-20855/"
       },
-      "episode": "Episode 21",
+      "episode": "21",
       "date": "5/1/94",
       "rating": "8.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-maquis-2-20855/",
         "src": "http://img2.tvtome.com/i/tve/em/20855.jpg",
@@ -583,9 +624,10 @@
         "text": "The Wire",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-wire-20856/"
       },
-      "episode": "Episode 22",
+      "episode": "22",
       "date": "5/8/94",
       "rating": "8.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-wire-20856/",
         "src": "http://img2.tvtome.com/i/tve/em/20856.jpg",
@@ -597,9 +639,10 @@
         "text": "Crossover",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/crossover-20857/"
       },
-      "episode": "Episode 23",
+      "episode": "23",
       "date": "5/15/94",
       "rating": "8.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/crossover-20857/",
         "src": "http://img2.tvtome.com/i/tve/em/20857.jpg",
@@ -611,9 +654,10 @@
         "text": "The Collaborator",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-collaborator-20858/"
       },
-      "episode": "Episode 24",
+      "episode": "24",
       "date": "5/22/94",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-collaborator-20858/",
         "src": "http://img2.tvtome.com/i/tve/em/20858.jpg",
@@ -625,9 +669,10 @@
         "text": "Tribunal",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/tribunal-20859/"
       },
-      "episode": "Episode 25",
+      "episode": "25",
       "date": "6/5/94",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/tribunal-20859/",
         "src": "http://img2.tvtome.com/i/tve/em/20859.jpg",
@@ -639,9 +684,10 @@
         "text": "The Jem'Hadar",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-jemhadar-20860/"
       },
-      "episode": "Episode 26",
+      "episode": "26",
       "date": "6/12/94",
       "rating": "9.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-jemhadar-20860/",
         "src": "http://img2.tvtome.com/i/tve/em/20860.jpg",
@@ -657,9 +703,10 @@
         "text": "The Search (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-search-1-20861/"
       },
-      "episode": "Episode 1",
+      "episode": "1",
       "date": "9/26/94",
       "rating": "9.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-search-1-20861/",
         "src": "http://img2.tvtome.com/i/tve/em/20861.jpg",
@@ -671,9 +718,10 @@
         "text": "The Search (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-search-2-20862/"
       },
-      "episode": "Episode 2",
+      "episode": "2",
       "date": "10/3/94",
       "rating": "9.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-search-2-20862/",
         "src": "http://img2.tvtome.com/i/tve/em/20862.jpg",
@@ -685,9 +733,10 @@
         "text": "The House of Quark",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-house-of-quark-20864/"
       },
-      "episode": "Episode 3",
+      "episode": "3",
       "date": "10/10/94",
       "rating": "8.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-house-of-quark-20864/",
         "src": "http://img2.tvtome.com/i/tve/em/20864.jpg",
@@ -699,9 +748,10 @@
         "text": "Equilibrium",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/equilibrium-20865/"
       },
-      "episode": "Episode 4",
+      "episode": "4",
       "date": "10/17/94",
       "rating": "7.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/equilibrium-20865/",
         "src": "http://img2.tvtome.com/i/tve/em/20865.jpg",
@@ -713,9 +763,10 @@
         "text": "Second Skin",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/second-skin-20866/"
       },
-      "episode": "Episode 5",
+      "episode": "5",
       "date": "10/24/94",
       "rating": "8.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/second-skin-20866/",
         "src": "http://img2.tvtome.com/i/tve/em/20866.jpg",
@@ -727,9 +778,10 @@
         "text": "The Abandoned",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-abandoned-20867/"
       },
-      "episode": "Episode 6",
+      "episode": "6",
       "date": "10/31/94",
       "rating": "7.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-abandoned-20867/",
         "src": "http://img2.tvtome.com/i/tve/em/20867.jpg",
@@ -741,9 +793,10 @@
         "text": "Civil Defense",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/civil-defense-20868/"
       },
-      "episode": "Episode 7",
+      "episode": "7",
       "date": "11/7/94",
       "rating": "9.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/civil-defense-20868/",
         "src": "http://img2.tvtome.com/i/tve/em/20868.jpg",
@@ -755,9 +808,10 @@
         "text": "Meridian",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/meridian-20869/"
       },
-      "episode": "Episode 8",
+      "episode": "8",
       "date": "11/14/94",
       "rating": "6.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/meridian-20869/",
         "src": "http://img2.tvtome.com/i/tve/em/20869.jpg",
@@ -769,9 +823,10 @@
         "text": "Defiant",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/defiant-20870/"
       },
-      "episode": "Episode 9",
+      "episode": "9",
       "date": "11/21/94",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/defiant-20870/",
         "src": "http://img2.tvtome.com/i/tve/em/20870.jpg",
@@ -783,9 +838,10 @@
         "text": "Fascination",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/fascination-20871/"
       },
-      "episode": "Episode 10",
+      "episode": "10",
       "date": "11/28/94",
       "rating": "6.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/fascination-20871/",
         "src": "http://img2.tvtome.com/i/tve/em/20871.jpg",
@@ -797,9 +853,10 @@
         "text": "Past Tense (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/past-tense-1-20872/"
       },
-      "episode": "Episode 11",
+      "episode": "11",
       "date": "1/2/95",
       "rating": "8.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/past-tense-1-20872/",
         "src": "http://img2.tvtome.com/i/tve/em/20872.jpg",
@@ -811,9 +868,10 @@
         "text": "Past Tense (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/past-tense-2-20873/"
       },
-      "episode": "Episode 12",
+      "episode": "12",
       "date": "1/9/95",
       "rating": "8.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/past-tense-2-20873/",
         "src": "http://img2.tvtome.com/i/tve/em/20873.jpg",
@@ -825,9 +883,10 @@
         "text": "Life Support",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/life-support-20874/"
       },
-      "episode": "Episode 13",
+      "episode": "13",
       "date": "1/30/95",
       "rating": "6.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/life-support-20874/",
         "src": "http://img2.tvtome.com/i/tve/em/20874.jpg",
@@ -839,9 +898,10 @@
         "text": "Heart of Stone",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/heart-of-stone-20875/"
       },
-      "episode": "Episode 14",
+      "episode": "14",
       "date": "2/6/95",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/heart-of-stone-20875/",
         "src": "http://img2.tvtome.com/i/tve/em/20875.jpg",
@@ -853,9 +913,10 @@
         "text": "Destiny",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/destiny-20876/"
       },
-      "episode": "Episode 15",
+      "episode": "15",
       "date": "2/13/95",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/destiny-20876/",
         "src": "http://img2.tvtome.com/i/tve/em/20876.jpg",
@@ -867,9 +928,10 @@
         "text": "Prophet Motive",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/prophet-motive-20877/"
       },
-      "episode": "Episode 16",
+      "episode": "16",
       "date": "2/20/95",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/prophet-motive-20877/",
         "src": "http://img2.tvtome.com/i/tve/em/20877.jpg",
@@ -881,9 +943,10 @@
         "text": "Visionary",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/visionary-20878/"
       },
-      "episode": "Episode 17",
+      "episode": "17",
       "date": "2/27/95",
       "rating": "8.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/visionary-20878/",
         "src": "http://img2.tvtome.com/i/tve/em/20878.jpg",
@@ -895,9 +958,10 @@
         "text": "Distant Voices",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/distant-voices-20879/"
       },
-      "episode": "Episode 18",
+      "episode": "18",
       "date": "4/10/95",
       "rating": "7.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/distant-voices-20879/",
         "src": "http://img2.tvtome.com/i/tve/em/20879.jpg",
@@ -909,9 +973,10 @@
         "text": "Through The Looking Glass",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/through-the-looking-glass-2840433/"
       },
-      "episode": "Episode 19",
+      "episode": "19",
       "date": "4/17/95",
       "rating": "8.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/through-the-looking-glass-2840433/",
         "src": "http://img2.tvtome.com/i/tve/em/2840433.jpg",
@@ -923,9 +988,10 @@
         "text": "Improbable Cause (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/improbable-cause-1-20881/"
       },
-      "episode": "Episode 20",
+      "episode": "20",
       "date": "4/24/95",
       "rating": "9.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/improbable-cause-1-20881/",
         "src": "http://img2.tvtome.com/i/tve/em/20881.jpg",
@@ -937,9 +1003,10 @@
         "text": "The Die Is Cast (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-die-is-cast-2-20882/"
       },
-      "episode": "Episode 21",
+      "episode": "21",
       "date": "5/1/95",
       "rating": "9.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-die-is-cast-2-20882/",
         "src": "http://img2.tvtome.com/i/tve/em/20882.jpg",
@@ -951,9 +1018,10 @@
         "text": "Explorers",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/explorers-20883/"
       },
-      "episode": "Episode 22",
+      "episode": "22",
       "date": "5/8/95",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/explorers-20883/",
         "src": "http://img2.tvtome.com/i/tve/em/20883.jpg",
@@ -965,9 +1033,10 @@
         "text": "Family Business",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/family-business-20884/"
       },
-      "episode": "Episode 23",
+      "episode": "23",
       "date": "5/15/95",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/family-business-20884/",
         "src": "http://img2.tvtome.com/i/tve/em/20884.jpg",
@@ -979,9 +1048,10 @@
         "text": "Shakaar",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/shakaar-20885/"
       },
-      "episode": "Episode 24",
+      "episode": "24",
       "date": "5/22/95",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/shakaar-20885/",
         "src": "http://img2.tvtome.com/i/tve/em/20885.jpg",
@@ -993,9 +1063,10 @@
         "text": "Facets",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/facets-20886/"
       },
-      "episode": "Episode 25",
+      "episode": "25",
       "date": "6/12/95",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/facets-20886/",
         "src": "http://img2.tvtome.com/i/tve/em/20886.jpg",
@@ -1007,9 +1078,10 @@
         "text": "The Adversary",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-adversary-20887/"
       },
-      "episode": "Episode 26",
+      "episode": "26",
       "date": "6/19/95",
       "rating": "9.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-adversary-20887/",
         "src": "http://img2.tvtome.com/i/tve/em/20887.jpg",
@@ -1025,9 +1097,10 @@
         "text": "The Way of the Warrior (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-way-of-the-warrior-1-20888/"
       },
-      "episode": "Episode 1",
+      "episode": "1",
       "date": "10/2/95",
       "rating": "9.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-way-of-the-warrior-1-20888/",
         "src": "http://img2.tvtome.com/i/tve/em/20888.jpg",
@@ -1039,9 +1112,10 @@
         "text": "The Way of the Warrior (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-way-of-the-warrior-2-20889/"
       },
-      "episode": "Episode 2",
+      "episode": "2",
       "date": "10/2/95",
       "rating": "9.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-way-of-the-warrior-2-20889/",
         "src": "http://img2.tvtome.com/i/tve/em/20889.jpg",
@@ -1053,9 +1127,10 @@
         "text": "The Visitor",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-visitor-20890/"
       },
-      "episode": "Episode 3",
+      "episode": "3",
       "date": "10/9/95",
       "rating": "9.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-visitor-20890/",
         "src": "http://img2.tvtome.com/i/tve/em/20890.jpg",
@@ -1067,9 +1142,10 @@
         "text": "Hippocratic Oath",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/hippocratic-oath-20891/"
       },
-      "episode": "Episode 4",
+      "episode": "4",
       "date": "10/16/95",
       "rating": "8.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/hippocratic-oath-20891/",
         "src": "http://img2.tvtome.com/i/tve/em/20891.jpg",
@@ -1081,9 +1157,10 @@
         "text": "Indiscretion",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/indiscretion-20892/"
       },
-      "episode": "Episode 5",
+      "episode": "5",
       "date": "10/23/95",
       "rating": "8.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/indiscretion-20892/",
         "src": "http://img2.tvtome.com/i/tve/em/20892.jpg",
@@ -1095,9 +1172,10 @@
         "text": "Rejoined",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rejoined-20893/"
       },
-      "episode": "Episode 6",
+      "episode": "6",
       "date": "10/30/95",
       "rating": "7.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rejoined-20893/",
         "src": "http://img2.tvtome.com/i/tve/em/20893.jpg",
@@ -1109,9 +1187,10 @@
         "text": "Starship Down",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/starship-down-20894/"
       },
-      "episode": "Episode 7",
+      "episode": "7",
       "date": "11/6/95",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/starship-down-20894/",
         "src": "http://img2.tvtome.com/i/tve/em/20894.jpg",
@@ -1123,9 +1202,10 @@
         "text": "Little Green Men",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/little-green-men-20895/"
       },
-      "episode": "Episode 8",
+      "episode": "8",
       "date": "11/13/95",
       "rating": "8.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/little-green-men-20895/",
         "src": "http://img2.tvtome.com/i/tve/em/20895.jpg",
@@ -1137,9 +1217,10 @@
         "text": "The Sword of Kahless",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-sword-of-kahless-20896/"
       },
-      "episode": "Episode 9",
+      "episode": "9",
       "date": "11/20/95",
       "rating": "7.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-sword-of-kahless-20896/",
         "src": "http://img2.tvtome.com/i/tve/em/20896.jpg",
@@ -1151,9 +1232,10 @@
         "text": "Our Man Bashir",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/our-man-bashir-20897/"
       },
-      "episode": "Episode 10",
+      "episode": "10",
       "date": "11/27/95",
       "rating": "8.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/our-man-bashir-20897/",
         "src": "http://img2.tvtome.com/i/tve/em/20897.jpg",
@@ -1165,9 +1247,10 @@
         "text": "Homefront (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/homefront-1-20898/"
       },
-      "episode": "Episode 11",
+      "episode": "11",
       "date": "1/1/96",
       "rating": "9.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/homefront-1-20898/",
         "src": "http://img2.tvtome.com/i/tve/em/20898.jpg",
@@ -1179,9 +1262,10 @@
         "text": "Paradise Lost (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/paradise-lost-2-20899/"
       },
-      "episode": "Episode 12",
+      "episode": "12",
       "date": "1/8/96",
       "rating": "9.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/paradise-lost-2-20899/",
         "src": "http://img2.tvtome.com/i/tve/em/20899.jpg",
@@ -1193,9 +1277,10 @@
         "text": "Crossfire",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/crossfire-20900/"
       },
-      "episode": "Episode 13",
+      "episode": "13",
       "date": "1/29/96",
       "rating": "7.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/crossfire-20900/",
         "src": "http://img2.tvtome.com/i/tve/em/20900.jpg",
@@ -1207,9 +1292,10 @@
         "text": "Return to Grace",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/return-to-grace-20901/"
       },
-      "episode": "Episode 14",
+      "episode": "14",
       "date": "2/5/96",
       "rating": "8.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/return-to-grace-20901/",
         "src": "http://img2.tvtome.com/i/tve/em/20901.jpg",
@@ -1221,9 +1307,10 @@
         "text": "Sons of Mogh",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/sons-of-mogh-20902/"
       },
-      "episode": "Episode 15",
+      "episode": "15",
       "date": "2/12/96",
       "rating": "7.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/sons-of-mogh-20902/",
         "src": "http://img2.tvtome.com/i/tve/em/20902.jpg",
@@ -1235,9 +1322,10 @@
         "text": "Bar Association",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/bar-association-20903/"
       },
-      "episode": "Episode 16",
+      "episode": "16",
       "date": "2/19/96",
       "rating": "7.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/bar-association-20903/",
         "src": "http://img2.tvtome.com/i/tve/em/20903.jpg",
@@ -1249,9 +1337,10 @@
         "text": "Accession",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/accession-20904/"
       },
-      "episode": "Episode 17",
+      "episode": "17",
       "date": "2/26/96",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/accession-20904/",
         "src": "http://img2.tvtome.com/i/tve/em/20904.jpg",
@@ -1263,9 +1352,10 @@
         "text": "Rules of Engagement",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rules-of-engagement-20905/"
       },
-      "episode": "Episode 18",
+      "episode": "18",
       "date": "4/8/96",
       "rating": "7.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rules-of-engagement-20905/",
         "src": "http://img2.tvtome.com/i/tve/em/20905.jpg",
@@ -1277,9 +1367,10 @@
         "text": "Hard Time",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/hard-time-20906/"
       },
-      "episode": "Episode 19",
+      "episode": "19",
       "date": "4/15/96",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/hard-time-20906/",
         "src": "http://img2.tvtome.com/i/tve/em/20906.jpg",
@@ -1291,9 +1382,10 @@
         "text": "Shattered Mirror",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/shattered-mirror-20907/"
       },
-      "episode": "Episode 20",
+      "episode": "20",
       "date": "4/22/96",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/shattered-mirror-20907/",
         "src": "http://img2.tvtome.com/i/tve/em/20907.jpg",
@@ -1305,9 +1397,10 @@
         "text": "The Muse",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-muse-20908/"
       },
-      "episode": "Episode 21",
+      "episode": "21",
       "date": "4/29/96",
       "rating": "6.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-muse-20908/",
         "src": "http://img2.tvtome.com/i/tve/em/20908.jpg",
@@ -1319,9 +1412,10 @@
         "text": "For the Cause",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/for-the-cause-20909/"
       },
-      "episode": "Episode 22",
+      "episode": "22",
       "date": "5/6/96",
       "rating": "8.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/for-the-cause-20909/",
         "src": "http://img2.tvtome.com/i/tve/em/20909.jpg",
@@ -1333,9 +1427,10 @@
         "text": "To the Death",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/to-the-death-20910/"
       },
-      "episode": "Episode 23",
+      "episode": "23",
       "date": "5/13/96",
       "rating": "8.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/to-the-death-20910/",
         "src": "http://img2.tvtome.com/i/tve/em/20910.jpg",
@@ -1347,9 +1442,10 @@
         "text": "The Quickening",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-quickening-20911/"
       },
-      "episode": "Episode 24",
+      "episode": "24",
       "date": "5/20/96",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-quickening-20911/",
         "src": "http://img2.tvtome.com/i/tve/em/20911.jpg",
@@ -1361,9 +1457,10 @@
         "text": "Body Parts",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/body-parts-20912/"
       },
-      "episode": "Episode 25",
+      "episode": "25",
       "date": "6/10/96",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/body-parts-20912/",
         "src": "http://img2.tvtome.com/i/tve/em/20912.jpg",
@@ -1375,9 +1472,10 @@
         "text": "Broken Link",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/broken-link-20913/"
       },
-      "episode": "Episode 26",
+      "episode": "26",
       "date": "6/17/96",
       "rating": "8.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/broken-link-20913/",
         "src": "http://img2.tvtome.com/i/tve/em/20913.jpg",
@@ -1393,9 +1491,10 @@
         "text": "Apocalypse Rising",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/apocalypse-rising-20914/"
       },
-      "episode": "Episode 1",
+      "episode": "1",
       "date": "9/30/96",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/apocalypse-rising-20914/",
         "src": "http://img2.tvtome.com/i/tve/em/20914.jpg",
@@ -1407,9 +1506,10 @@
         "text": "The Ship",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-ship-20915/"
       },
-      "episode": "Episode 2",
+      "episode": "2",
       "date": "10/7/96",
       "rating": "8.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-ship-20915/",
         "src": "http://img2.tvtome.com/i/tve/em/20915.jpg",
@@ -1421,9 +1521,10 @@
         "text": "Looking for par'Mach in All the Wrong Places",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/looking-for-parmach-in-all-the-wrong-places-20916/"
       },
-      "episode": "Episode 3",
+      "episode": "3",
       "date": "10/14/96",
       "rating": "7.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/looking-for-parmach-in-all-the-wrong-places-20916/",
         "src": "http://img2.tvtome.com/i/tve/em/20916.jpg",
@@ -1435,9 +1536,10 @@
         "text": "...Nor the Battle to the Strong",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/nor-the-battle-to-the-strong-20917/"
       },
-      "episode": "Episode 4",
+      "episode": "4",
       "date": "10/21/96",
       "rating": "8.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/nor-the-battle-to-the-strong-20917/",
         "src": "http://img2.tvtome.com/i/tve/em/20917.jpg",
@@ -1449,9 +1551,10 @@
         "text": "The Assignment",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-assignment-20918/"
       },
-      "episode": "Episode 5",
+      "episode": "5",
       "date": "10/28/96",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-assignment-20918/",
         "src": "http://img2.tvtome.com/i/tve/em/20918.jpg",
@@ -1463,9 +1566,10 @@
         "text": "Trials and Tribble-ations",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/trials-and-tribble-ations-20919/"
       },
-      "episode": "Episode 6",
+      "episode": "6",
       "date": "11/4/96",
       "rating": "9.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/trials-and-tribble-ations-20919/",
         "src": "http://img2.tvtome.com/i/tve/em/20919.jpg",
@@ -1477,9 +1581,10 @@
         "text": "Let He Who Is Without Sin...",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/let-he-who-is-without-sin--20920/"
       },
-      "episode": "Episode 7",
+      "episode": "7",
       "date": "11/11/96",
       "rating": "6.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/let-he-who-is-without-sin--20920/",
         "src": "http://img2.tvtome.com/i/tve/em/20920.jpg",
@@ -1491,9 +1596,10 @@
         "text": "Things Past",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/things-past-20921/"
       },
-      "episode": "Episode 8",
+      "episode": "8",
       "date": "11/18/96",
       "rating": "8.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/things-past-20921/",
         "src": "http://img2.tvtome.com/i/tve/em/20921.jpg",
@@ -1505,9 +1611,10 @@
         "text": "The Ascent",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-ascent-20922/"
       },
-      "episode": "Episode 9",
+      "episode": "9",
       "date": "11/25/96",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-ascent-20922/",
         "src": "http://img2.tvtome.com/i/tve/em/20922.jpg",
@@ -1519,9 +1626,10 @@
         "text": "Rapture",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rapture-20923/"
       },
-      "episode": "Episode 10",
+      "episode": "10",
       "date": "12/30/96",
       "rating": "8.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rapture-20923/",
         "src": "http://img2.tvtome.com/i/tve/em/20923.jpg",
@@ -1533,9 +1641,10 @@
         "text": "The Darkness and the Light",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-darkness-and-the-light-20924/"
       },
-      "episode": "Episode 11",
+      "episode": "11",
       "date": "1/6/97",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-darkness-and-the-light-20924/",
         "src": "http://img2.tvtome.com/i/tve/em/20924.jpg",
@@ -1547,9 +1656,10 @@
         "text": "The Begotten",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-begotten-20925/"
       },
-      "episode": "Episode 12",
+      "episode": "12",
       "date": "1/27/97",
       "rating": "8.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-begotten-20925/",
         "src": "http://img2.tvtome.com/i/tve/em/20925.jpg",
@@ -1561,9 +1671,10 @@
         "text": "For the Uniform",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/for-the-uniform-20926/"
       },
-      "episode": "Episode 13",
+      "episode": "13",
       "date": "2/3/97",
       "rating": "8.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/for-the-uniform-20926/",
         "src": "http://img2.tvtome.com/i/tve/em/20926.jpg",
@@ -1575,9 +1686,10 @@
         "text": "In Purgatory's Shadow (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/in-purgatorys-shadow-1-20927/"
       },
-      "episode": "Episode 14",
+      "episode": "14",
       "date": "2/10/97",
       "rating": "9.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/in-purgatorys-shadow-1-20927/",
         "src": "http://img2.tvtome.com/i/tve/em/20927.jpg",
@@ -1589,9 +1701,10 @@
         "text": "By Inferno's Light (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/by-infernos-light-2-20928/"
       },
-      "episode": "Episode 15",
+      "episode": "15",
       "date": "2/17/97",
       "rating": "9.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/by-infernos-light-2-20928/",
         "src": "http://img2.tvtome.com/i/tve/em/20928.jpg",
@@ -1603,9 +1716,10 @@
         "text": "Doctor Bashir, I Presume?",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/doctor-bashir-i-presume-20929/"
       },
-      "episode": "Episode 16",
+      "episode": "16",
       "date": "2/24/97",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/doctor-bashir-i-presume-20929/",
         "src": "http://img2.tvtome.com/i/tve/em/20929.jpg",
@@ -1617,9 +1731,10 @@
         "text": "A Simple Investigation",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/a-simple-investigation-20930/"
       },
-      "episode": "Episode 17",
+      "episode": "17",
       "date": "3/31/97",
       "rating": "6.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/a-simple-investigation-20930/",
         "src": "http://img2.tvtome.com/i/tve/em/20930.jpg",
@@ -1631,9 +1746,10 @@
         "text": "Business as Usual",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/business-as-usual-20931/"
       },
-      "episode": "Episode 18",
+      "episode": "18",
       "date": "4/7/97",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/business-as-usual-20931/",
         "src": "http://img2.tvtome.com/i/tve/em/20931.jpg",
@@ -1645,9 +1761,10 @@
         "text": "Ties of Blood and Water",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/ties-of-blood-and-water-20932/"
       },
-      "episode": "Episode 19",
+      "episode": "19",
       "date": "4/14/97",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/ties-of-blood-and-water-20932/",
         "src": "http://img2.tvtome.com/i/tve/em/20932.jpg",
@@ -1659,9 +1776,10 @@
         "text": "Ferengi Love Songs",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/ferengi-love-songs-20934/"
       },
-      "episode": "Episode 20",
+      "episode": "20",
       "date": "4/21/97",
       "rating": "7.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/ferengi-love-songs-20934/",
         "src": "http://img2.tvtome.com/i/tve/em/20934.jpg",
@@ -1673,9 +1791,10 @@
         "text": "Soldiers of the Empire",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/soldiers-of-the-empire-20935/"
       },
-      "episode": "Episode 21",
+      "episode": "21",
       "date": "4/28/97",
       "rating": "8.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/soldiers-of-the-empire-20935/",
         "src": "http://img2.tvtome.com/i/tve/em/20935.jpg",
@@ -1687,9 +1806,10 @@
         "text": "Children of Time",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/children-of-time-20937/"
       },
-      "episode": "Episode 22",
+      "episode": "22",
       "date": "5/5/97",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/children-of-time-20937/",
         "src": "http://img2.tvtome.com/i/tve/em/20937.jpg",
@@ -1701,9 +1821,10 @@
         "text": "Blaze of Glory",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/blaze-of-glory-20939/"
       },
-      "episode": "Episode 23",
+      "episode": "23",
       "date": "5/12/97",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/blaze-of-glory-20939/",
         "src": "http://img2.tvtome.com/i/tve/em/20939.jpg",
@@ -1715,9 +1836,10 @@
         "text": "Empok Nor",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/empok-nor-20940/"
       },
-      "episode": "Episode 24",
+      "episode": "24",
       "date": "5/19/97",
       "rating": "8.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/empok-nor-20940/",
         "src": "http://img2.tvtome.com/i/tve/em/20940.jpg",
@@ -1729,9 +1851,10 @@
         "text": "In the Cards",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/in-the-cards-20943/"
       },
-      "episode": "Episode 25",
+      "episode": "25",
       "date": "6/9/97",
       "rating": "8.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/in-the-cards-20943/",
         "src": "http://img2.tvtome.com/i/tve/em/20943.jpg",
@@ -1743,9 +1866,10 @@
         "text": "Call to Arms (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/call-to-arms-1-20945/"
       },
-      "episode": "Episode 26",
+      "episode": "26",
       "date": "6/16/97",
       "rating": "9.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/call-to-arms-1-20945/",
         "src": "http://img2.tvtome.com/i/tve/em/20945.jpg",
@@ -1761,9 +1885,10 @@
         "text": "A Time to Stand (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/a-time-to-stand-2-20947/"
       },
-      "episode": "Episode 1",
+      "episode": "1",
       "date": "9/29/97",
       "rating": "9.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/a-time-to-stand-2-20947/",
         "src": "http://img2.tvtome.com/i/tve/em/20947.jpg",
@@ -1775,9 +1900,10 @@
         "text": "Rocks and Shoals (3)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rocks-and-shoals-3-20950/"
       },
-      "episode": "Episode 2",
+      "episode": "2",
       "date": "10/6/97",
       "rating": "9.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/rocks-and-shoals-3-20950/",
         "src": "http://img2.tvtome.com/i/tve/em/20950.jpg",
@@ -1789,9 +1915,10 @@
         "text": "Sons and Daughters (4)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/sons-and-daughters-4-20953/"
       },
-      "episode": "Episode 3",
+      "episode": "3",
       "date": "10/13/97",
       "rating": "7.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/sons-and-daughters-4-20953/",
         "src": "http://img2.tvtome.com/i/tve/em/20953.jpg",
@@ -1803,9 +1930,10 @@
         "text": "Behind the Lines (5)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/behind-the-lines-5-20954/"
       },
-      "episode": "Episode 4",
+      "episode": "4",
       "date": "10/20/97",
       "rating": "8.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/behind-the-lines-5-20954/",
         "src": "http://img2.tvtome.com/i/tve/em/20954.jpg",
@@ -1817,9 +1945,10 @@
         "text": "Favor the Bold (6)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/favor-the-bold-6-20955/"
       },
-      "episode": "Episode 5",
+      "episode": "5",
       "date": "10/27/97",
       "rating": "9.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/favor-the-bold-6-20955/",
         "src": "http://img2.tvtome.com/i/tve/em/20955.jpg",
@@ -1831,9 +1960,10 @@
         "text": "Sacrifice of Angels (7)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/sacrifice-of-angels-7-20956/"
       },
-      "episode": "Episode 6",
+      "episode": "6",
       "date": "11/3/97",
       "rating": "9.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/sacrifice-of-angels-7-20956/",
         "src": "http://img2.tvtome.com/i/tve/em/20956.jpg",
@@ -1845,9 +1975,10 @@
         "text": "You Are Cordially Invited...",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/you-are-cordially-invited--20957/"
       },
-      "episode": "Episode 7",
+      "episode": "7",
       "date": "11/10/97",
       "rating": "8.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/you-are-cordially-invited--20957/",
         "src": "http://img2.tvtome.com/i/tve/em/20957.jpg",
@@ -1859,9 +1990,10 @@
         "text": "Resurrection",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/resurrection-20958/"
       },
-      "episode": "Episode 8",
+      "episode": "8",
       "date": "11/17/97",
       "rating": "6.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/resurrection-20958/",
         "src": "http://img2.tvtome.com/i/tve/em/20958.jpg",
@@ -1873,9 +2005,10 @@
         "text": "Statistical Probabilities",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/statistical-probabilities-20959/"
       },
-      "episode": "Episode 9",
+      "episode": "9",
       "date": "11/24/97",
       "rating": "8.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/statistical-probabilities-20959/",
         "src": "http://img2.tvtome.com/i/tve/em/20959.jpg",
@@ -1887,9 +2020,10 @@
         "text": "The Magnificent Ferengi",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-magnificent-ferengi-20960/"
       },
-      "episode": "Episode 10",
+      "episode": "10",
       "date": "1/1/98",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-magnificent-ferengi-20960/",
         "src": "http://img2.tvtome.com/i/tve/em/20960.jpg",
@@ -1901,9 +2035,10 @@
         "text": "Waltz",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/waltz-20961/"
       },
-      "episode": "Episode 11",
+      "episode": "11",
       "date": "1/8/98",
       "rating": "8.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/waltz-20961/",
         "src": "http://img2.tvtome.com/i/tve/em/20961.jpg",
@@ -1915,9 +2050,10 @@
         "text": "Who Mourns for Morn?",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/who-mourns-for-morn-20962/"
       },
-      "episode": "Episode 12",
+      "episode": "12",
       "date": "2/4/98",
       "rating": "8.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/who-mourns-for-morn-20962/",
         "src": "http://img2.tvtome.com/i/tve/em/20962.jpg",
@@ -1929,9 +2065,10 @@
         "text": "Far Beyond the Stars",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/far-beyond-the-stars-20963/"
       },
-      "episode": "Episode 13",
+      "episode": "13",
       "date": "2/11/98",
       "rating": "8.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/far-beyond-the-stars-20963/",
         "src": "http://img2.tvtome.com/i/tve/em/20963.jpg",
@@ -1943,9 +2080,10 @@
         "text": "One Little Ship",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/one-little-ship-20964/"
       },
-      "episode": "Episode 14",
+      "episode": "14",
       "date": "2/18/98",
       "rating": "8.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/one-little-ship-20964/",
         "src": "http://img2.tvtome.com/i/tve/em/20964.jpg",
@@ -1957,9 +2095,10 @@
         "text": "Honor Among Thieves",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/honor-among-thieves-20965/"
       },
-      "episode": "Episode 15",
+      "episode": "15",
       "date": "2/25/98",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/honor-among-thieves-20965/",
         "src": "http://img2.tvtome.com/i/tve/em/20965.jpg",
@@ -1971,9 +2110,10 @@
         "text": "Change of Heart",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/change-of-heart-20966/"
       },
-      "episode": "Episode 16",
+      "episode": "16",
       "date": "3/4/98",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/change-of-heart-20966/",
         "src": "http://img2.tvtome.com/i/tve/em/20966.jpg",
@@ -1985,9 +2125,10 @@
         "text": "Wrongs Darker than Death or Night",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/wrongs-darker-than-death-or-night-20967/"
       },
-      "episode": "Episode 17",
+      "episode": "17",
       "date": "4/1/98",
       "rating": "7.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/wrongs-darker-than-death-or-night-20967/",
         "src": "http://img2.tvtome.com/i/tve/em/20967.jpg",
@@ -1999,9 +2140,10 @@
         "text": "Inquisition",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/inquisition-20968/"
       },
-      "episode": "Episode 18",
+      "episode": "18",
       "date": "4/8/98",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/inquisition-20968/",
         "src": "http://img2.tvtome.com/i/tve/em/20968.jpg",
@@ -2013,9 +2155,10 @@
         "text": "In the Pale Moonlight",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/in-the-pale-moonlight-20970/"
       },
-      "episode": "Episode 19",
+      "episode": "19",
       "date": "4/15/98",
       "rating": "9.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/in-the-pale-moonlight-20970/",
         "src": "http://img2.tvtome.com/i/tve/em/20970.jpg",
@@ -2027,9 +2170,10 @@
         "text": "His Way",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/his-way-20973/"
       },
-      "episode": "Episode 20",
+      "episode": "20",
       "date": "4/22/98",
       "rating": "7.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/his-way-20973/",
         "src": "http://img2.tvtome.com/i/tve/em/20973.jpg",
@@ -2041,9 +2185,10 @@
         "text": "The Reckoning",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-reckoning-20974/"
       },
-      "episode": "Episode 21",
+      "episode": "21",
       "date": "4/29/98",
       "rating": "8.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-reckoning-20974/",
         "src": "http://img2.tvtome.com/i/tve/em/20974.jpg",
@@ -2055,9 +2200,10 @@
         "text": "Valiant",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/valiant-20976/"
       },
-      "episode": "Episode 22",
+      "episode": "22",
       "date": "5/6/98",
       "rating": "7.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/valiant-20976/",
         "src": "http://img2.tvtome.com/i/tve/em/20976.jpg",
@@ -2069,9 +2215,10 @@
         "text": "Profit and Lace",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/profit-and-lace-20979/"
       },
-      "episode": "Episode 23",
+      "episode": "23",
       "date": "5/13/98",
       "rating": "6.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/profit-and-lace-20979/",
         "src": "http://img2.tvtome.com/i/tve/em/20979.jpg",
@@ -2083,9 +2230,10 @@
         "text": "Time's Orphan",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/times-orphan-20981/"
       },
-      "episode": "Episode 24",
+      "episode": "24",
       "date": "5/20/98",
       "rating": "6.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/times-orphan-20981/",
         "src": "http://img2.tvtome.com/i/tve/em/20981.jpg",
@@ -2097,9 +2245,10 @@
         "text": "The Sound of Her Voice",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-sound-of-her-voice-20983/"
       },
-      "episode": "Episode 25",
+      "episode": "25",
       "date": "6/10/98",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-sound-of-her-voice-20983/",
         "src": "http://img2.tvtome.com/i/tve/em/20983.jpg",
@@ -2111,9 +2260,10 @@
         "text": "Tears of the Prophets (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/tears-of-the-prophets-1-20984/"
       },
-      "episode": "Episode 26",
+      "episode": "26",
       "date": "6/17/98",
       "rating": "9.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/tears-of-the-prophets-1-20984/",
         "src": "http://img2.tvtome.com/i/tve/em/20984.jpg",
@@ -2129,9 +2279,10 @@
         "text": "Image in the Sand (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/image-in-the-sand-2-20986/"
       },
-      "episode": "Episode 1",
+      "episode": "1",
       "date": "9/30/98",
       "rating": "8.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/image-in-the-sand-2-20986/",
         "src": "http://img2.tvtome.com/i/tve/em/20986.jpg",
@@ -2143,9 +2294,10 @@
         "text": "Shadows and Symbols (3)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/shadows-and-symbols-3-20989/"
       },
-      "episode": "Episode 2",
+      "episode": "2",
       "date": "10/7/98",
       "rating": "8.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/shadows-and-symbols-3-20989/",
         "src": "http://img2.tvtome.com/i/tve/em/20989.jpg",
@@ -2157,9 +2309,10 @@
         "text": "Afterimage",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/afterimage-20990/"
       },
-      "episode": "Episode 3",
+      "episode": "3",
       "date": "10/14/98",
       "rating": "7.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/afterimage-20990/",
         "src": "http://img2.tvtome.com/i/tve/em/20990.jpg",
@@ -2171,9 +2324,10 @@
         "text": "Take Me Out to the Holosuite",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/take-me-out-to-the-holosuite-20991/"
       },
-      "episode": "Episode 4",
+      "episode": "4",
       "date": "10/21/98",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/take-me-out-to-the-holosuite-20991/",
         "src": "http://img2.tvtome.com/i/tve/em/20991.jpg",
@@ -2185,9 +2339,10 @@
         "text": "Chrysalis",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/chrysalis-20992/"
       },
-      "episode": "Episode 5",
+      "episode": "5",
       "date": "10/28/98",
       "rating": "7.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/chrysalis-20992/",
         "src": "http://img2.tvtome.com/i/tve/em/20992.jpg",
@@ -2199,9 +2354,10 @@
         "text": "Treachery, Faith and the Great River",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/treachery-faith-and-the-great-river-20993/"
       },
-      "episode": "Episode 6",
+      "episode": "6",
       "date": "11/4/98",
       "rating": "8.6",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/treachery-faith-and-the-great-river-20993/",
         "src": "http://img2.tvtome.com/i/tve/em/20993.jpg",
@@ -2213,9 +2369,10 @@
         "text": "Once More Unto the Breach",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/once-more-unto-the-breach-20995/"
       },
-      "episode": "Episode 7",
+      "episode": "7",
       "date": "11/11/98",
       "rating": "8.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/once-more-unto-the-breach-20995/",
         "src": "http://img2.tvtome.com/i/tve/em/20995.jpg",
@@ -2227,9 +2384,10 @@
         "text": "The Siege of AR-558",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-siege-of-ar-558-20997/"
       },
-      "episode": "Episode 8",
+      "episode": "8",
       "date": "11/18/98",
       "rating": "9.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-siege-of-ar-558-20997/",
         "src": "http://img2.tvtome.com/i/tve/em/20997.jpg",
@@ -2241,9 +2399,10 @@
         "text": "Covenant",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/covenant-20999/"
       },
-      "episode": "Episode 9",
+      "episode": "9",
       "date": "11/25/98",
       "rating": "7.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/covenant-20999/",
         "src": "http://img2.tvtome.com/i/tve/em/20999.jpg",
@@ -2255,9 +2414,10 @@
         "text": "It's Only a Paper Moon",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/its-only-a-paper-moon-21002/"
       },
-      "episode": "Episode 10",
+      "episode": "10",
       "date": "12/30/98",
       "rating": "8.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/its-only-a-paper-moon-21002/",
         "src": "http://img2.tvtome.com/i/tve/em/21002.jpg",
@@ -2269,9 +2429,10 @@
         "text": "Prodigal Daughter",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/prodigal-daughter-21003/"
       },
-      "episode": "Episode 11",
+      "episode": "11",
       "date": "1/6/99",
       "rating": "6.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/prodigal-daughter-21003/",
         "src": "http://img2.tvtome.com/i/tve/em/21003.jpg",
@@ -2283,9 +2444,10 @@
         "text": "The Emperor's New Cloak",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-emperors-new-cloak-21005/"
       },
-      "episode": "Episode 12",
+      "episode": "12",
       "date": "2/3/99",
       "rating": "7.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-emperors-new-cloak-21005/",
         "src": "http://img2.tvtome.com/i/tve/em/21005.jpg",
@@ -2297,9 +2459,10 @@
         "text": "Field of Fire",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/field-of-fire-21006/"
       },
-      "episode": "Episode 13",
+      "episode": "13",
       "date": "2/10/99",
       "rating": "7.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/field-of-fire-21006/",
         "src": "http://img2.tvtome.com/i/tve/em/21006.jpg",
@@ -2311,9 +2474,10 @@
         "text": "Chimera",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/chimera-21007/"
       },
-      "episode": "Episode 14",
+      "episode": "14",
       "date": "2/17/99",
       "rating": "7.9",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/chimera-21007/",
         "src": "http://img2.tvtome.com/i/tve/em/21007.jpg",
@@ -2325,9 +2489,10 @@
         "text": "Badda-Bing, Badda-Bang",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/badda-bing-badda-bang-21008/"
       },
-      "episode": "Episode 15",
+      "episode": "15",
       "date": "2/24/99",
       "rating": "8.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/badda-bing-badda-bang-21008/",
         "src": "http://img2.tvtome.com/i/tve/em/21008.jpg",
@@ -2339,9 +2504,10 @@
         "text": "Inter Arma Enim Silent Leges",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/inter-arma-enim-silent-leges-21010/"
       },
-      "episode": "Episode 16",
+      "episode": "16",
       "date": "3/3/99",
       "rating": "9.1",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/inter-arma-enim-silent-leges-21010/",
         "src": "http://img2.tvtome.com/i/tve/em/21010.jpg",
@@ -2353,9 +2519,10 @@
         "text": "Penumbra (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/penumbra-1-21011/"
       },
-      "episode": "Episode 17",
+      "episode": "17",
       "date": "4/7/99",
       "rating": "8.4",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/penumbra-1-21011/",
         "src": "http://img2.tvtome.com/i/tve/em/21011.jpg",
@@ -2367,9 +2534,10 @@
         "text": "'Til Death Do Us Part (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/til-death-do-us-part-2-21012/"
       },
-      "episode": "Episode 18",
+      "episode": "18",
       "date": "4/14/99",
       "rating": "8.7",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/til-death-do-us-part-2-21012/",
         "src": "http://img2.tvtome.com/i/tve/em/21012.jpg",
@@ -2381,9 +2549,10 @@
         "text": "Strange Bedfellows (3)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/strange-bedfellows-3-21014/"
       },
-      "episode": "Episode 19",
+      "episode": "19",
       "date": "4/21/99",
       "rating": "8.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/strange-bedfellows-3-21014/",
         "src": "http://img2.tvtome.com/i/tve/em/21014.jpg",
@@ -2395,9 +2564,10 @@
         "text": "The Changing Face of Evil (4)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-changing-face-of-evil-4-21016/"
       },
-      "episode": "Episode 20",
+      "episode": "20",
       "date": "4/28/99",
       "rating": "9.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-changing-face-of-evil-4-21016/",
         "src": "http://img2.tvtome.com/i/tve/em/21016.jpg",
@@ -2409,9 +2579,10 @@
         "text": "When It Rains... (5)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/when-it-rains-5-21018/"
       },
-      "episode": "Episode 21",
+      "episode": "21",
       "date": "5/5/99",
       "rating": "8.8",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/when-it-rains-5-21018/",
         "src": "http://img2.tvtome.com/i/tve/em/21018.jpg",
@@ -2423,9 +2594,10 @@
         "text": "Tacking Into the Wind (6)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/tacking-into-the-wind-6-21020/"
       },
-      "episode": "Episode 22",
+      "episode": "22",
       "date": "5/12/99",
       "rating": "9.2",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/tacking-into-the-wind-6-21020/",
         "src": "http://img2.tvtome.com/i/tve/em/21020.jpg",
@@ -2437,9 +2609,10 @@
         "text": "Extreme Measures (7)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/extreme-measures-7-21022/"
       },
-      "episode": "Episode 23",
+      "episode": "23",
       "date": "5/19/99",
       "rating": "8.5",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/extreme-measures-7-21022/",
         "src": "http://img2.tvtome.com/i/tve/em/21022.jpg",
@@ -2451,9 +2624,10 @@
         "text": "The Dogs of War (8)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-dogs-of-war-8-21024/"
       },
-      "episode": "Episode 24",
+      "episode": "24",
       "date": "5/26/99",
       "rating": "9.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/the-dogs-of-war-8-21024/",
         "src": "http://img2.tvtome.com/i/tve/em/21024.jpg",
@@ -2465,9 +2639,10 @@
         "text": "What You Leave Behind (1)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/what-you-leave-behind-1-21025/"
       },
-      "episode": "Episode 25",
+      "episode": "25",
       "date": "6/2/99",
       "rating": "9.3",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/what-you-leave-behind-1-21025/",
         "src": "http://img2.tvtome.com/i/tve/em/21025.jpg",
@@ -2479,9 +2654,10 @@
         "text": "What You Leave Behind (2)",
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/what-you-leave-behind-2-21027/"
       },
-      "episode": "Episode 26",
+      "episode": "26",
       "date": "6/2/99",
       "rating": "9.0",
+      "watched": "false",
       "img": {
         "href": "http://www.tv.com/shows/star-trek-deep-space-nine/what-you-leave-behind-2-21027/",
         "src": "http://img2.tvtome.com/i/tve/em/21027.jpg",
