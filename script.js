@@ -16,7 +16,7 @@ var Seasons = React.createClass({
   },
   render: function() {
     return (
-      <div>
+      <div className="seasonList">
         <SeasonList picks={this.state.picks} seasons={this.state.data} />
       </div>
     )
@@ -52,7 +52,6 @@ var SeasonList = React.createClass({
   render: function() {
     var seasonNodes = this.state.seasons.map(function (season, index) {
       return (
-        // <div key={index}>Season {index + 1} </div>
         <Season key={index} data={season} />
       )
     });
@@ -75,16 +74,18 @@ var Season = React.createClass({
   render: function() {
     var epNodes = this.state.filteredEps.map(function (ep, index){
       return (
-        <div key={index}>
-          <h3><a href={ep.title.href}>{ep.title.text}</a></h3>
-          <p>Rating: {ep.rating} | Date: {ep.date}</p>
-        </div>
+        <li className="episode" key={index}>
+          <header>
+            <h3><a href={ep.title.href}>{ep.title.text}</a> <small>Rating: {ep.rating}</small></h3>
+            <p>{ep.episode}</p>
+          </header>
+        </li>
       )
     });
     return (
-      <div>
-        <h1>Season {this.props.key + 1}</h1>
-        <div>{epNodes}</div>
+      <div className="season">
+        <h2>Season {this.props.key + 1}</h2>
+        <ul className="episodes">{epNodes}</ul>
       </div>
     )
   }

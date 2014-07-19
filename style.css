@@ -1,0 +1,40 @@
+body {
+  background: #000 url('bg.jpg') no-repeat ;
+  color: #BDC3C7;
+}
+
+a {
+  color: #65a7c0;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+.episodes {
+  list-style: none;
+  padding-left: 0;
+}
+
+.episode {
+  background: rgba(255,255,255,0.15);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.episode h3 {
+  font-weight: normal;
+  font-size: 18px;
+  float: left;
+  margin-bottom: 0;
+}
+
+.episode header {
+  overflow: hidden;
+}
+
+.episode header p {
+  float: right;
+  margin-bottom: 0;
+}
+
