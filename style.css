@@ -18,23 +18,41 @@ h3 {
 
 .episode {
   background: rgba(255,255,255,0.15);
-  padding: 16px;
   margin-bottom: 16px;
 }
 
 .episode h3 {
   font-weight: normal;
   font-size: 18px;
-  float: left;
   margin-bottom: 0;
 }
 
-.episode header {
-  overflow: hidden;
+.episode .media-heading {
+  float: left;
 }
 
-.episode header p {
+.episode .media-heading small {
+  display: inline-block;
+  margin-bottom: 8px;
+}
+
+.episode .media-body {
+  overflow: hidden;
+  padding: 13px 16px 16px 8px;
+}
+
+.episode .media-body p {
   float: right;
   margin-bottom: 0;
 }
 
+.watched {
+  font-size: 26px;
+  padding: 13px 16px 30px 16px;
+  background: rgba(255,255,255,0.05);
+  cursor: pointer;
+}
+
+.watched-false .glyphicon {
+  color: rgba(255,255,255,0.2);
+}

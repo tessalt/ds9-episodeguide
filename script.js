@@ -100,27 +100,36 @@ var Episode = React.createClass({
   getInitialState: function() {
     return {episode: this.props.data}
   },
-  saveEp: function() {
+  toggleSave: function() {
     var localEps = JSON.parse(localStorage.getItem('episodes'));
-    localEps[this.props.seasonNo].episodes[this.state.episode.episode -1].watched = "true";
+    var watchedState = this.state.episode.watched === 'true' ? 'false' : 'true';
+    localEps[this.props.seasonNo].episodes[this.state.episode.episode -1].watched = watchedState;
     localStorage.setItem('episodes', JSON.stringify(localEps));
     var ep = this.state.episode;
-    ep.watched = 'true';
+    ep.watched = watchedState;
     this.setState({episode: ep});
   },
   render: function() {
     return (
       <li className="episode" key={this.props.key}>
-        {this.state.episode.watched}
-        <button onClick={this.saveEp}>Save</button>
-        <header>
-          <h3><a href={this.state.episode.title.href}>{this.state.episode.title.text}</a> <small>Rating: {this.state.episode.rating}</small></h3>
-          <p>{this.state.episode.episode}</p>
-        </header>
+        <div className="media">
+          <div className="pull-left">
+            <div className={'watched watched-' + this.state.episode.watched} onClick={this.toggleSave}><span className="glyphicon glyphicon-ok"></span></div>
+          </div>
+          <div className="media-body">
+            <div className="media-heading">
+              <small>Episode {this.state.episode.episode}</small>
+              <h3><a href={this.state.episode.title.href}>{this.state.episode.title.text}</a> </h3>
+            </div>
+            <p>Rating: {this.state.episode.rating}</p>
+          </div>
+        </div>
       </li>
     )
   }
 });
+
+
 
 React.renderComponent(
   <Seasons url="episodes.json" />,
