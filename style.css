@@ -35,30 +35,32 @@ h3 {
 .episodes {
   list-style: none;
   padding-left: 0;
-  -webkit-transition: max-height .5s;
   overflow: hidden;
   margin-bottom: 0;
 }
 
 .episodes.closed {
   max-height: 0;
+  -webkit-transition: max-height .5s;
 }
 
 .episodes.open {
   max-height: 1200px;
+  -webkit-transition: max-height 1s;
 }
 
 .description {
-  -webkit-transition: all .5s;
   overflow: hidden;
   padding: 0 8px 0 8px;
 }
 
 .description.closed {
+  -webkit-transition: all .5s;
   max-height: 0;
 }
 
 .description.open {
+  -webkit-transition: all 1s;
   max-height: 200px;
 }
 

@@ -35,7 +35,7 @@ var SeasonList = React.createClass({
   },
   loadPicks: function(cb){
     $.ajax({
-      url: 'picks.json',
+      url: 'data/picks.json',
       success: function(data) {
         cb(data);
       }.bind(this),
@@ -186,6 +186,6 @@ var Rating = React.createClass({
 });
 
 React.renderComponent(
-  <Seasons url="episodes.json" />,
+  <Seasons url="data/episodes.json" />,
   document.getElementById('container')
 );
