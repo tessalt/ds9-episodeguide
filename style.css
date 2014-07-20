@@ -80,11 +80,3 @@ h3 {
   background: rgba(0,0,0,0.2);
   padding: 8px;
 }
-
-.glyphicon-false:before {
-  content: "\e157";
-}
-
-.glyphicon-true:before {
-  content: "\e013";
-}

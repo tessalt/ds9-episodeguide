@@ -6,7 +6,6 @@ var Seasons = React.createClass({
   loadSeasonsFromServer: function() {
     var localEps = localStorage.getItem('episodes');
     if (!localEps) {
-      console.log('ajax');
       $.ajax({
         url: this.props.url,
         success: function(data) {
@@ -112,7 +111,7 @@ var Episode = React.createClass({
         <div className="media">
           <div className="pull-left">
             <div className='watched' onClick={this.toggleSave}>
-              <span className={'glyphicon glyphicon-' + this.state.episode.watched}></span>
+              <WatchedIndicator watched={this.state.episode.watched} />
             </div>
           </div>
           <div className="media-body">
@@ -128,19 +127,21 @@ var Episode = React.createClass({
   }
 });
 
-var Rating = React.createClass({
-  getInitialState: function() {
-    return {
-      ratingState: this.setRatingClass()
-    }
-  },
-  setRatingClass: function() {
-    var rating = parseFloat(this.props.val);
-    return rating >= 8 ? 'high' : 'med';
-  },
+var WatchedIndicator = React.createClass({
   render: function() {
+    var iconClass = this.props.watched === 'true' ? 'ok' : 'unchecked';
     return (
-      <span className={'rating rating-' + this.state.ratingState}>{this.props.val}</span>
+      <span className={'glyphicon glyphicon-' + iconClass}></span>
+    )
+  }
+});
+
+var Rating = React.createClass({
+  render: function() {
+    var rating = parseFloat(this.props.val);
+    var ratingClass = rating >= 8 ? 'high' : 'med';
+    return (
+      <span className={'rating rating-' + ratingClass}>{this.props.val}</span>
     )
   }
 });
