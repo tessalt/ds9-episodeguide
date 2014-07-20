@@ -111,7 +111,9 @@ var Episode = React.createClass({
       <li className={'episode watched-' + this.state.episode.watched} key={this.props.key}>
         <div className="media">
           <div className="pull-left">
-            <div className='watched' onClick={this.toggleSave}><span className={'glyphicon glyphicon-' + this.state.episode.watched}></span></div>
+            <div className='watched' onClick={this.toggleSave}>
+              <span className={'glyphicon glyphicon-' + this.state.episode.watched}></span>
+            </div>
           </div>
           <div className="media-body">
             <div className="media-heading">
