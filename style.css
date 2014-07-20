@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #65a7c0;
+  color: #32BBC7;
 }
 
 h3 {
@@ -17,8 +17,19 @@ h3 {
 }
 
 .episode {
-  background: rgba(255,255,255,0.15);
+  background: rgba(255,255,255,0.2);
   margin-bottom: 16px;
+}
+
+.episode.watched-true {
+  opacity: 0.6;
+}
+
+.episode.watched-true a {
+  color: grey;
+}
+.episode.watched-true .rating {
+  background: rgba(0,0,0,0.2);
 }
 
 .episode h3 {
@@ -29,6 +40,9 @@ h3 {
 
 .episode .media-heading {
   float: left;
+  padding: 13px 16px 16px 8px;
+  margin: 0;
+  line-height: 1;
 }
 
 .episode .media-heading small {
@@ -38,21 +52,39 @@ h3 {
 
 .episode .media-body {
   overflow: hidden;
-  padding: 13px 16px 16px 8px;
 }
 
-.episode .media-body p {
+.episode .rating {
   float: right;
-  margin-bottom: 0;
+  font-size: 18px;
+  padding: 8px;
+  margin: 16px 16px 0 0;
+}
+
+.episode .rating-high {
+  background: #418300;
+}
+
+.episode .rating-med {
+  background: #B46A0B;
 }
 
 .watched {
   font-size: 26px;
-  padding: 13px 16px 30px 16px;
-  background: rgba(255,255,255,0.05);
+  padding: 16px 8px 20px 16px;
+  color: rgba(255,255,255,0.2);
   cursor: pointer;
 }
 
-.watched-false .glyphicon {
-  color: rgba(255,255,255,0.2);
+.glyphicon {
+  background: rgba(0,0,0,0.2);
+  padding: 8px;
+}
+
+.glyphicon-false:before {
+  content: "\e157";
+}
+
+.glyphicon-true:before {
+  content: "\e013";
 }

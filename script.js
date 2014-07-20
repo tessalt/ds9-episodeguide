@@ -111,17 +111,17 @@ var Episode = React.createClass({
   },
   render: function() {
     return (
-      <li className="episode" key={this.props.key}>
+      <li className={'episode watched-' + this.state.episode.watched} key={this.props.key}>
         <div className="media">
           <div className="pull-left">
-            <div className={'watched watched-' + this.state.episode.watched} onClick={this.toggleSave}><span className="glyphicon glyphicon-ok"></span></div>
+            <div className='watched' onClick={this.toggleSave}><span className={'glyphicon glyphicon-' + this.state.episode.watched}></span></div>
           </div>
           <div className="media-body">
             <div className="media-heading">
               <small>Episode {this.state.episode.episode}</small>
               <h3><a href={this.state.episode.title.href}>{this.state.episode.title.text}</a> </h3>
             </div>
-            <p>Rating: {this.state.episode.rating}</p>
+            <Rating val={this.state.episode.rating} />
           </div>
         </div>
       </li>
@@ -129,7 +129,22 @@ var Episode = React.createClass({
   }
 });
 
-
+var Rating = React.createClass({
+  getInitialState: function() {
+    return {
+      ratingState: this.setRatingClass()
+    }
+  },
+  setRatingClass: function() {
+    var rating = parseFloat(this.props.val);
+    return rating >= 8 ? 'high' : 'med';
+  },
+  render: function() {
+    return (
+      <span className={'rating rating-' + this.state.ratingState}>{this.props.val}</span>
+    )
+  }
+});
 
 React.renderComponent(
   <Seasons url="episodes.json" />,
