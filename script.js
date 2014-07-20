@@ -109,7 +109,10 @@ var Season = React.createClass({
 
 var Episode = React.createClass({
   getInitialState: function() {
-    return {episode: this.props.data}
+    return {
+      episode: this.props.data,
+      showDesc: false
+    }
   },
   toggleSave: function() {
     var localEps = JSON.parse(localStorage.getItem('episodes'));
@@ -120,7 +123,11 @@ var Episode = React.createClass({
     ep.watched = watchedState;
     this.setState({episode: ep});
   },
+  showDesc: function() {
+    this.setState({showDesc: !this.state.showDesc});
+  },
   render: function() {
+    var displayClass = this.state.showDesc ? 'open' : 'closed';
     return (
       <li className={'episode watched-' + this.state.episode.watched} key={this.props.key}>
         <div className="media">
@@ -129,15 +136,27 @@ var Episode = React.createClass({
               <WatchedIndicator watched={this.state.episode.watched} />
             </div>
           </div>
-          <div className="media-body">
+          <div className="media-body"  onClick={this.showDesc}>
             <div className="media-heading">
               <small>Episode {this.state.episode.episode}</small>
-              <h3><a href={this.state.episode.title.href}>{this.state.episode.title.text}</a> </h3>
+              <h3>{this.state.episode.title.text}</h3>
             </div>
             <Rating val={this.state.episode.rating} />
           </div>
+          <Description content={this.state.episode.description} display={displayClass} link={this.state.episode.title.href} />
         </div>
       </li>
+    )
+  }
+});
+
+var Description = React.createClass({
+  render: function() {
+    return (
+      <div className={'description ' + this.props.display}>
+        <p>{this.props.content}</p>
+        <p><a target="_blank" href={this.props.link}>View full description</a></p>
+      </div>
     )
   }
 });
@@ -162,6 +181,6 @@ var Rating = React.createClass({
 });
 
 React.renderComponent(
-  <Seasons url="episodes.json" />,
+  <Seasons url="new.json" />,
   document.getElementById('container')
 );
