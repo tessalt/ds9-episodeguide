@@ -7,6 +7,10 @@ a {
   color: #32BBC7;
 }
 
+a:hover {
+  color: #32BBC7;
+}
+
 h3 {
   margin-top: 0;
 }
@@ -45,7 +49,7 @@ h3 {
 }
 
 .episodes.open {
-  max-height: 1200px;
+  max-height: 4200px;
   -webkit-transition: max-height 1s;
 }
 
@@ -129,4 +133,8 @@ h3 {
 .episode .glyphicon {
   background: rgba(0,0,0,0.2);
   padding: 8px;
+}
+
+.main-footer {
+  padding: 16px 0;
 }
