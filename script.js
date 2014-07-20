@@ -84,7 +84,10 @@ var Season = React.createClass({
     var localEps = JSON.parse(localStorage.getItem('episodes'));
     localEps[this.props.key].open = !this.state.display;
     localStorage.setItem('episodes', JSON.stringify(localEps));
-    this.setState({display: !this.state.display});
+    var el = this.refs.seasonUl.getDOMNode();
+    $(el).slideToggle('medium', function(){
+      this.setState({display: !this.state.display});
+    }.bind(this));
   },
   render: function() {
     var key = this.props.key;
@@ -101,7 +104,7 @@ var Season = React.createClass({
           Season {this.props.key + 1}
           <span className={"glyphicon glyphicon-" + iconClass}></span>
         </h2>
-        <ul className={"episodes " + displayClass}>{epNodes}</ul>
+        <ul ref="seasonUl" className={"episodes " + displayClass}>{epNodes}</ul>
       </div>
     )
   }

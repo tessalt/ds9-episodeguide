@@ -44,13 +44,7 @@ h3 {
 }
 
 .episodes.closed {
-  max-height: 0;
-  -webkit-transition: max-height .5s;
-}
-
-.episodes.open {
-  max-height: 4200px;
-  -webkit-transition: max-height 1s;
+  display: none;
 }
 
 .description {
