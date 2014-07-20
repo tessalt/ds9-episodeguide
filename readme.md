@@ -8,7 +8,7 @@ So you think you can Star Trek better than me.
 
 ![jadzia](http://cl.ly/WeqI/Jadzia-Dax-Gifs-jadzia-dax-18331181-300-232.gif)
 
-Create a PR and data/picks.json to reflect your changes. Each array in picks.json represents 1 season. The numbers represent selected episode numbers **the episode numbers are not zero-indexed**.
+Create a PR and edit data/picks.json to reflect your changes. Each array in picks.json represents 1 season. The numbers represent selected episode numbers **the episode numbers are not zero-indexed**.
 
 After making your changes, you'd better include a damn convincing argument for why your change is warranted. And your JSON better be valid.
 
