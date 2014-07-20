@@ -1,5 +1,6 @@
 body {
   background: #000 url('bg.jpg') no-repeat center top;
+  background-attachment: fixed;
   color: #BDC3C7;
 }
 
@@ -71,9 +72,12 @@ h3 {
   opacity: 0.6;
 }
 
-.episode.watched-true a {
+.episode.watched-true a,
+.episode.watched-true h3 {
   color: grey;
 }
+
+
 .episode.watched-true .rating {
   background: rgba(0,0,0,0.2);
 }
