@@ -59,7 +59,7 @@ h3 {
 }
 
 .description.open {
-  max-height: 6em;
+  max-height: 200px;
 }
 
 .episode {
@@ -79,6 +79,7 @@ h3 {
 }
 
 .episode h3 {
+  color: #32BBC7;
   font-weight: normal;
   font-size: 18px;
   margin-bottom: 0;
