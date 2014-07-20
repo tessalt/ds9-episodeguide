@@ -15,8 +15,6 @@ var Seasons = React.createClass({
         }.bind(this),
       });
     } else {
-      console.log('local');
-      console.log(JSON.parse(localEps));
       this.setState({data: JSON.parse(localEps)});
     }
   },
@@ -45,7 +43,6 @@ var SeasonList = React.createClass({
     });
   },
   componentWillMount: function() {
-    // console.log(this.props.seasons);
     this.loadPicks(function(picks){
       var seasons = [];
       $.each(this.props.seasons, function(index, season){
