@@ -47,6 +47,7 @@ var SeasonList = React.createClass({
       $.each(this.props.seasons, function(index, season){
         var seasonPicks = picks[index];
         var seasonObj = {
+          open: season.open,
           episodes: season.episodes,
           picks: picks[index].episodes
         }
@@ -67,7 +68,10 @@ var SeasonList = React.createClass({
 
 var Season = React.createClass({
   getInitialState: function() {
-    return {filteredEps: []}
+    return {
+      filteredEps: [],
+      display: this.props.data.open
+    }
   },
   componentWillMount: function() {
     var episodes = this.props.data.episodes;
@@ -76,6 +80,12 @@ var Season = React.createClass({
     }.bind(this));
     this.setState({filteredEps: picked});
   },
+  toggleDisplay: function() {
+    var localEps = JSON.parse(localStorage.getItem('episodes'));
+    localEps[this.props.key].open = !this.state.display;
+    localStorage.setItem('episodes', JSON.stringify(localEps));
+    this.setState({display: !this.state.display});
+  },
   render: function() {
     var key = this.props.key;
     var epNodes = this.state.filteredEps.map(function (ep, index){
@@ -83,10 +93,15 @@ var Season = React.createClass({
         <Episode key={index} data={ep} seasonNo={key} />
       )
     });
+    var displayClass = this.state.display ? 'open' : 'closed';
+    var iconClass = this.state.display ? 'minus' : 'plus';
     return (
       <div className="season">
-        <h2>Season {this.props.key + 1}</h2>
-        <ul className="episodes">{epNodes}</ul>
+        <h2 onClick={this.toggleDisplay}>
+          Season {this.props.key + 1}
+          <span className={"glyphicon glyphicon-" + iconClass}></span>
+        </h2>
+        <ul className={"episodes " + displayClass}>{epNodes}</ul>
       </div>
     )
   }

@@ -11,14 +11,46 @@ h3 {
   margin-top: 0;
 }
 
+.main-header {
+  margin-bottom: 32px;
+}
+
+.season h2 {
+  padding: 16px;
+  margin: 0;
+  position: relative;
+  cursor: pointer;
+  background: rgba(255,255,255,0.1);
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.season h2 .glyphicon {
+  font-size: 26px;
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+
 .episodes {
   list-style: none;
   padding-left: 0;
+  -webkit-transition: max-height .5s;
+  overflow: hidden;
+  margin-bottom: 0;
+}
+
+.episodes.closed {
+  max-height: 0;
+}
+
+.episodes.open {
+  max-height: 1200px;
 }
 
 .episode {
   background: rgba(255,255,255,0.2);
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .episode.watched-true {
@@ -76,7 +108,7 @@ h3 {
   cursor: pointer;
 }
 
-.glyphicon {
+.episode .glyphicon {
   background: rgba(0,0,0,0.2);
   padding: 8px;
 }
