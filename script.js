@@ -49,7 +49,7 @@ var SeasonList = React.createClass({
         var seasonObj = {
           open: season.open,
           episodes: season.episodes,
-          picks: picks[index].episodes
+          picks: picks[index]
         }
         seasons.push(seasonObj);
       });
@@ -143,7 +143,11 @@ var Episode = React.createClass({
             </div>
             <Rating val={this.state.episode.rating} />
           </div>
-          <Description content={this.state.episode.description} display={displayClass} link={this.state.episode.title.href} />
+          <Description
+            display={displayClass}
+            notes={this.state.episode.notes}
+            content={this.state.episode.description}
+            link={this.state.episode.title.href} />
         </div>
       </li>
     )
@@ -155,6 +159,7 @@ var Description = React.createClass({
     return (
       <div className={'description ' + this.props.display}>
         <p>{this.props.content}</p>
+        <p><strong>{this.props.notes ? 'Notes: ' : ''}</strong>{this.props.notes}</p>
         <p><a target="_blank" href={this.props.link}>View full description</a></p>
       </div>
     )
@@ -181,6 +186,6 @@ var Rating = React.createClass({
 });
 
 React.renderComponent(
-  <Seasons url="new.json" />,
+  <Seasons url="episodes.json" />,
   document.getElementById('container')
 );
