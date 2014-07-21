@@ -4,8 +4,8 @@
       "episodes":[
          {
             "title":{
-               "text":"Emissary (1)"
-
+               "text":"Emissary (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/emissary-1-20814/"
             },
             "episode":"1",
             "date":"1/3/93",
@@ -15,8 +15,8 @@
          },
          {
             "title":{
-               "text":"Emissary (2)"
-
+               "text":"Emissary (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/emissary-2-20815/"
             },
             "episode":"2",
             "date":"1/3/93",
@@ -26,8 +26,8 @@
          },
          {
             "title":{
-               "text":"A Man Alone"
-
+               "text":"A Man Alone",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/a-man-alone-20817/"
             },
             "episode":"3",
             "date":"1/17/93",
@@ -37,8 +37,8 @@
          },
          {
             "title":{
-               "text":"Past Prologue"
-
+               "text":"Past Prologue",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/past-prologue-20816/"
             },
             "episode":"4",
             "date":"1/10/93",
@@ -48,8 +48,8 @@
          },
          {
             "title":{
-               "text":"Babel"
-
+               "text":"Babel",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/babel-20818/"
             },
             "episode":"5",
             "date":"1/24/93",
@@ -59,8 +59,8 @@
          },
          {
             "title":{
-               "text":"Captive Pursuit"
-
+               "text":"Captive Pursuit",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/captive-pursuit-20819/"
             },
             "episode":"6",
             "date":"1/31/93",
@@ -70,8 +70,8 @@
          },
          {
             "title":{
-               "text":"Q-Less"
-
+               "text":"Q-Less",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/q-less-20820/"
             },
             "episode":"7",
             "date":"2/7/93",
@@ -81,8 +81,8 @@
          },
          {
             "title":{
-               "text":"Dax"
-
+               "text":"Dax",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/dax-20821/"
             },
             "episode":"8",
             "date":"2/14/93",
@@ -93,8 +93,8 @@
          },
          {
             "title":{
-               "text":"The Passenger"
-
+               "text":"The Passenger",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-passenger-20822/"
             },
             "episode":"9",
             "date":"2/22/93",
@@ -104,8 +104,8 @@
          },
          {
             "title":{
-               "text":"Move Along Home"
-
+               "text":"Move Along Home",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/move-along-home-20823/"
             },
             "episode":"10",
             "date":"3/14/93",
@@ -115,8 +115,8 @@
          },
          {
             "title":{
-               "text":"The Nagus"
-
+               "text":"The Nagus",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-nagus-20824/"
             },
             "episode":"11",
             "date":"3/21/93",
@@ -126,8 +126,8 @@
          },
          {
             "title":{
-               "text":"Vortex"
-
+               "text":"Vortex",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/vortex-20825/"
             },
             "episode":"12",
             "date":"4/18/93",
@@ -137,8 +137,8 @@
          },
          {
             "title":{
-               "text":"Battle Lines"
-
+               "text":"Battle Lines",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/battle-lines-20826/"
             },
             "episode":"13",
             "date":"4/25/93",
@@ -148,8 +148,8 @@
          },
          {
             "title":{
-               "text":"The Storyteller"
-
+               "text":"The Storyteller",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-storyteller-20827/"
             },
             "episode":"14",
             "date":"5/2/93",
@@ -159,8 +159,8 @@
          },
          {
             "title":{
-               "text":"Progress"
-
+               "text":"Progress",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/progress-20828/"
             },
             "episode":"15",
             "date":"5/9/93",
@@ -170,8 +170,8 @@
          },
          {
             "title":{
-               "text":"If Wishes Were Horses"
-
+               "text":"If Wishes Were Horses",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/if-wishes-were-horses-20829/"
             },
             "episode":"16",
             "date":"5/16/93",
@@ -181,8 +181,8 @@
          },
          {
             "title":{
-               "text":"The Forsaken"
-
+               "text":"The Forsaken",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-forsaken-20830/"
             },
             "episode":"17",
             "date":"5/23/93",
@@ -192,8 +192,8 @@
          },
          {
             "title":{
-               "text":"Dramatis Personae"
-
+               "text":"Dramatis Personae",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/dramatis-personae-20831/"
             },
             "episode":"18",
             "date":"5/30/93",
@@ -203,8 +203,8 @@
          },
          {
             "title":{
-               "text":"Duet"
-
+               "text":"Duet",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/duet-20832/"
             },
             "episode":"19",
             "date":"6/13/93",
@@ -214,8 +214,8 @@
          },
          {
             "title":{
-               "text":"In the Hands of the Prophets"
-
+               "text":"In the Hands of the Prophets",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/in-the-hands-of-the-prophets-20833/"
             },
             "episode":"20",
             "date":"6/20/93",
@@ -230,8 +230,8 @@
       "episodes":[
          {
             "title":{
-               "text":"The Homecoming (1)"
-
+               "text":"The Homecoming (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-homecoming-1-20834/"
             },
             "episode":"1",
             "date":"9/26/93",
@@ -241,8 +241,8 @@
          },
          {
             "title":{
-               "text":"The Circle (2)"
-
+               "text":"The Circle (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-circle-2-20835/"
             },
             "episode":"2",
             "date":"10/3/93",
@@ -252,8 +252,8 @@
          },
          {
             "title":{
-               "text":"The Siege (3)"
-
+               "text":"The Siege (3)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-siege-3-20836/"
             },
             "episode":"3",
             "date":"10/10/93",
@@ -263,8 +263,8 @@
          },
          {
             "title":{
-               "text":"Invasive Procedures"
-
+               "text":"Invasive Procedures",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/invasive-procedures-20837/"
             },
             "episode":"4",
             "date":"10/17/93",
@@ -274,8 +274,8 @@
          },
          {
             "title":{
-               "text":"Cardassians"
-
+               "text":"Cardassians",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/cardassians-20838/"
             },
             "episode":"5",
             "date":"10/24/93",
@@ -285,8 +285,8 @@
          },
          {
             "title":{
-               "text":"Melora"
-
+               "text":"Melora",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/melora-20839/"
             },
             "episode":"6",
             "date":"10/31/93",
@@ -296,8 +296,8 @@
          },
          {
             "title":{
-               "text":"Rules of Acquisition"
-
+               "text":"Rules of Acquisition",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rules-of-acquisition-20840/"
             },
             "episode":"7",
             "date":"11/7/93",
@@ -307,8 +307,8 @@
          },
          {
             "title":{
-               "text":"Necessary Evil"
-
+               "text":"Necessary Evil",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/necessary-evil-20841/"
             },
             "episode":"8",
             "date":"11/14/93",
@@ -318,8 +318,8 @@
          },
          {
             "title":{
-               "text":"Second Sight"
-
+               "text":"Second Sight",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/second-sight-20842/"
             },
             "episode":"9",
             "date":"11/21/93",
@@ -329,8 +329,8 @@
          },
          {
             "title":{
-               "text":"Sanctuary"
-
+               "text":"Sanctuary",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/sanctuary-20843/"
             },
             "episode":"10",
             "date":"11/28/93",
@@ -340,8 +340,8 @@
          },
          {
             "title":{
-               "text":"Rivals"
-
+               "text":"Rivals",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rivals-20844/"
             },
             "episode":"11",
             "date":"1/2/94",
@@ -351,8 +351,8 @@
          },
          {
             "title":{
-               "text":"The Alternate"
-
+               "text":"The Alternate",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-alternate-20845/"
             },
             "episode":"12",
             "date":"1/9/94",
@@ -362,8 +362,8 @@
          },
          {
             "title":{
-               "text":"Armageddon Game"
-
+               "text":"Armageddon Game",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/armageddon-game-20846/"
             },
             "episode":"13",
             "date":"1/30/94",
@@ -373,8 +373,8 @@
          },
          {
             "title":{
-               "text":"Whispers"
-
+               "text":"Whispers",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/whispers-20847/"
             },
             "episode":"14",
             "date":"2/6/94",
@@ -384,8 +384,8 @@
          },
          {
             "title":{
-               "text":"Paradise"
-
+               "text":"Paradise",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/paradise-20848/"
             },
             "episode":"15",
             "date":"2/13/94",
@@ -395,8 +395,8 @@
          },
          {
             "title":{
-               "text":"Shadowplay"
-
+               "text":"Shadowplay",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/shadowplay-20850/"
             },
             "episode":"16",
             "date":"2/20/94",
@@ -406,8 +406,8 @@
          },
          {
             "title":{
-               "text":"Playing God"
-
+               "text":"Playing God",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/playing-god-20851/"
             },
             "episode":"17",
             "date":"2/27/94",
@@ -417,8 +417,8 @@
          },
          {
             "title":{
-               "text":"Profit and Loss"
-
+               "text":"Profit and Loss",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/profit-and-loss-20852/"
             },
             "episode":"18",
             "date":"3/20/94",
@@ -428,8 +428,8 @@
          },
          {
             "title":{
-               "text":"Blood Oath"
-
+               "text":"Blood Oath",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/blood-oath-20853/"
             },
             "episode":"19",
             "date":"3/27/94",
@@ -439,8 +439,8 @@
          },
          {
             "title":{
-               "text":"The Maquis (1)"
-
+               "text":"The Maquis (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-maquis-1-20854/"
             },
             "episode":"20",
             "date":"4/24/94",
@@ -450,8 +450,8 @@
          },
          {
             "title":{
-               "text":"The Maquis (2)"
-
+               "text":"The Maquis (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-maquis-2-20855/"
             },
             "episode":"21",
             "date":"5/1/94",
@@ -461,8 +461,8 @@
          },
          {
             "title":{
-               "text":"The Wire"
-
+               "text":"The Wire",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-wire-20856/"
             },
             "episode":"22",
             "date":"5/8/94",
@@ -472,8 +472,8 @@
          },
          {
             "title":{
-               "text":"Crossover"
-
+               "text":"Crossover",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/crossover-20857/"
             },
             "episode":"23",
             "date":"5/15/94",
@@ -483,8 +483,8 @@
          },
          {
             "title":{
-               "text":"The Collaborator"
-
+               "text":"The Collaborator",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-collaborator-20858/"
             },
             "episode":"24",
             "date":"5/22/94",
@@ -494,8 +494,8 @@
          },
          {
             "title":{
-               "text":"Tribunal"
-
+               "text":"Tribunal",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/tribunal-20859/"
             },
             "episode":"25",
             "date":"6/5/94",
@@ -505,8 +505,8 @@
          },
          {
             "title":{
-               "text":"The Jem'Hadar"
-
+               "text":"The Jem'Hadar",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-jemhadar-20860/"
             },
             "episode":"26",
             "date":"6/12/94",
@@ -521,8 +521,8 @@
       "episodes":[
          {
             "title":{
-               "text":"The Search (1)"
-
+               "text":"The Search (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-search-1-20861/"
             },
             "episode":"1",
             "date":"9/26/94",
@@ -532,8 +532,8 @@
          },
          {
             "title":{
-               "text":"The Search (2)"
-
+               "text":"The Search (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-search-2-20862/"
             },
             "episode":"2",
             "date":"10/3/94",
@@ -543,8 +543,8 @@
          },
          {
             "title":{
-               "text":"The House of Quark"
-
+               "text":"The House of Quark",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-house-of-quark-20864/"
             },
             "episode":"3",
             "date":"10/10/94",
@@ -554,8 +554,8 @@
          },
          {
             "title":{
-               "text":"Equilibrium"
-
+               "text":"Equilibrium",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/equilibrium-20865/"
             },
             "episode":"4",
             "date":"10/17/94",
@@ -565,8 +565,8 @@
          },
          {
             "title":{
-               "text":"Second Skin"
-
+               "text":"Second Skin",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/second-skin-20866/"
             },
             "episode":"5",
             "date":"10/24/94",
@@ -576,8 +576,8 @@
          },
          {
             "title":{
-               "text":"The Abandoned"
-
+               "text":"The Abandoned",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-abandoned-20867/"
             },
             "episode":"6",
             "date":"10/31/94",
@@ -587,8 +587,8 @@
          },
          {
             "title":{
-               "text":"Civil Defense"
-
+               "text":"Civil Defense",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/civil-defense-20868/"
             },
             "episode":"7",
             "date":"11/7/94",
@@ -598,8 +598,8 @@
          },
          {
             "title":{
-               "text":"Meridian"
-
+               "text":"Meridian",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/meridian-20869/"
             },
             "episode":"8",
             "date":"11/14/94",
@@ -609,8 +609,8 @@
          },
          {
             "title":{
-               "text":"Defiant"
-
+               "text":"Defiant",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/defiant-20870/"
             },
             "episode":"9",
             "date":"11/21/94",
@@ -620,8 +620,8 @@
          },
          {
             "title":{
-               "text":"Fascination"
-
+               "text":"Fascination",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/fascination-20871/"
             },
             "episode":"10",
             "date":"11/28/94",
@@ -631,8 +631,8 @@
          },
          {
             "title":{
-               "text":"Past Tense (1)"
-
+               "text":"Past Tense (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/past-tense-1-20872/"
             },
             "episode":"11",
             "date":"1/2/95",
@@ -642,8 +642,8 @@
          },
          {
             "title":{
-               "text":"Past Tense (2)"
-
+               "text":"Past Tense (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/past-tense-2-20873/"
             },
             "episode":"12",
             "date":"1/9/95",
@@ -653,8 +653,8 @@
          },
          {
             "title":{
-               "text":"Life Support"
-
+               "text":"Life Support",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/life-support-20874/"
             },
             "episode":"13",
             "date":"1/30/95",
@@ -664,8 +664,8 @@
          },
          {
             "title":{
-               "text":"Heart of Stone"
-
+               "text":"Heart of Stone",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/heart-of-stone-20875/"
             },
             "episode":"14",
             "date":"2/6/95",
@@ -675,8 +675,8 @@
          },
          {
             "title":{
-               "text":"Destiny"
-
+               "text":"Destiny",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/destiny-20876/"
             },
             "episode":"15",
             "date":"2/13/95",
@@ -686,8 +686,8 @@
          },
          {
             "title":{
-               "text":"Prophet Motive"
-
+               "text":"Prophet Motive",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/prophet-motive-20877/"
             },
             "episode":"16",
             "date":"2/20/95",
@@ -697,8 +697,8 @@
          },
          {
             "title":{
-               "text":"Visionary"
-
+               "text":"Visionary",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/visionary-20878/"
             },
             "episode":"17",
             "date":"2/27/95",
@@ -708,8 +708,8 @@
          },
          {
             "title":{
-               "text":"Distant Voices"
-
+               "text":"Distant Voices",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/distant-voices-20879/"
             },
             "episode":"18",
             "date":"4/10/95",
@@ -719,8 +719,8 @@
          },
          {
             "title":{
-               "text":"Through The Looking Glass"
-
+               "text":"Through The Looking Glass",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/through-the-looking-glass-2840433/"
             },
             "episode":"19",
             "date":"4/17/95",
@@ -730,8 +730,8 @@
          },
          {
             "title":{
-               "text":"Improbable Cause (1)"
-
+               "text":"Improbable Cause (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/improbable-cause-1-20881/"
             },
             "episode":"20",
             "date":"4/24/95",
@@ -741,8 +741,8 @@
          },
          {
             "title":{
-               "text":"The Die Is Cast (2)"
-
+               "text":"The Die Is Cast (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-die-is-cast-2-20882/"
             },
             "episode":"21",
             "date":"5/1/95",
@@ -752,8 +752,8 @@
          },
          {
             "title":{
-               "text":"Explorers"
-
+               "text":"Explorers",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/explorers-20883/"
             },
             "episode":"22",
             "date":"5/8/95",
@@ -763,8 +763,8 @@
          },
          {
             "title":{
-               "text":"Family Business"
-
+               "text":"Family Business",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/family-business-20884/"
             },
             "episode":"23",
             "date":"5/15/95",
@@ -774,8 +774,8 @@
          },
          {
             "title":{
-               "text":"Shakaar"
-
+               "text":"Shakaar",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/shakaar-20885/"
             },
             "episode":"24",
             "date":"5/22/95",
@@ -785,8 +785,8 @@
          },
          {
             "title":{
-               "text":"Facets"
-
+               "text":"Facets",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/facets-20886/"
             },
             "episode":"25",
             "date":"6/12/95",
@@ -796,8 +796,8 @@
          },
          {
             "title":{
-               "text":"The Adversary"
-
+               "text":"The Adversary",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-adversary-20887/"
             },
             "episode":"26",
             "date":"6/19/95",
@@ -812,8 +812,8 @@
       "episodes":[
          {
             "title":{
-               "text":"The Way of the Warrior (1)"
-
+               "text":"The Way of the Warrior (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-way-of-the-warrior-1-20888/"
             },
             "episode":"1",
             "date":"10/2/95",
@@ -823,8 +823,8 @@
          },
          {
             "title":{
-               "text":"The Way of the Warrior (2)"
-
+               "text":"The Way of the Warrior (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-way-of-the-warrior-2-20889/"
             },
             "episode":"2",
             "date":"10/2/95",
@@ -834,8 +834,8 @@
          },
          {
             "title":{
-               "text":"The Visitor"
-
+               "text":"The Visitor",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-visitor-20890/"
             },
             "episode":"3",
             "date":"10/9/95",
@@ -845,8 +845,8 @@
          },
          {
             "title":{
-               "text":"Hippocratic Oath"
-
+               "text":"Hippocratic Oath",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/hippocratic-oath-20891/"
             },
             "episode":"4",
             "date":"10/16/95",
@@ -856,8 +856,8 @@
          },
          {
             "title":{
-               "text":"Indiscretion"
-
+               "text":"Indiscretion",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/indiscretion-20892/"
             },
             "episode":"5",
             "date":"10/23/95",
@@ -867,8 +867,8 @@
          },
          {
             "title":{
-               "text":"Rejoined"
-
+               "text":"Rejoined",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rejoined-20893/"
             },
             "episode":"6",
             "date":"10/30/95",
@@ -878,8 +878,8 @@
          },
          {
             "title":{
-               "text":"Starship Down"
-
+               "text":"Starship Down",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/starship-down-20894/"
             },
             "episode":"7",
             "date":"11/6/95",
@@ -889,8 +889,8 @@
          },
          {
             "title":{
-               "text":"Little Green Men"
-
+               "text":"Little Green Men",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/little-green-men-20895/"
             },
             "episode":"8",
             "date":"11/13/95",
@@ -900,8 +900,8 @@
          },
          {
             "title":{
-               "text":"The Sword of Kahless"
-
+               "text":"The Sword of Kahless",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-sword-of-kahless-20896/"
             },
             "episode":"9",
             "date":"11/20/95",
@@ -911,8 +911,8 @@
          },
          {
             "title":{
-               "text":"Our Man Bashir"
-
+               "text":"Our Man Bashir",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/our-man-bashir-20897/"
             },
             "episode":"10",
             "date":"11/27/95",
@@ -922,8 +922,8 @@
          },
          {
             "title":{
-               "text":"Homefront (1)"
-
+               "text":"Homefront (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/homefront-1-20898/"
             },
             "episode":"11",
             "date":"1/1/96",
@@ -933,8 +933,8 @@
          },
          {
             "title":{
-               "text":"Paradise Lost (2)"
-
+               "text":"Paradise Lost (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/paradise-lost-2-20899/"
             },
             "episode":"12",
             "date":"1/8/96",
@@ -944,8 +944,8 @@
          },
          {
             "title":{
-               "text":"Crossfire"
-
+               "text":"Crossfire",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/crossfire-20900/"
             },
             "episode":"13",
             "date":"1/29/96",
@@ -955,8 +955,8 @@
          },
          {
             "title":{
-               "text":"Return to Grace"
-
+               "text":"Return to Grace",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/return-to-grace-20901/"
             },
             "episode":"14",
             "date":"2/5/96",
@@ -966,8 +966,8 @@
          },
          {
             "title":{
-               "text":"Sons of Mogh"
-
+               "text":"Sons of Mogh",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/sons-of-mogh-20902/"
             },
             "episode":"15",
             "date":"2/12/96",
@@ -977,8 +977,8 @@
          },
          {
             "title":{
-               "text":"Bar Association"
-
+               "text":"Bar Association",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/bar-association-20903/"
             },
             "episode":"16",
             "date":"2/19/96",
@@ -988,8 +988,8 @@
          },
          {
             "title":{
-               "text":"Accession"
-
+               "text":"Accession",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/accession-20904/"
             },
             "episode":"17",
             "date":"2/26/96",
@@ -999,8 +999,8 @@
          },
          {
             "title":{
-               "text":"Rules of Engagement"
-
+               "text":"Rules of Engagement",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rules-of-engagement-20905/"
             },
             "episode":"18",
             "date":"4/8/96",
@@ -1010,8 +1010,8 @@
          },
          {
             "title":{
-               "text":"Hard Time"
-
+               "text":"Hard Time",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/hard-time-20906/"
             },
             "episode":"19",
             "date":"4/15/96",
@@ -1021,8 +1021,8 @@
          },
          {
             "title":{
-               "text":"Shattered Mirror"
-
+               "text":"Shattered Mirror",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/shattered-mirror-20907/"
             },
             "episode":"20",
             "date":"4/22/96",
@@ -1032,8 +1032,8 @@
          },
          {
             "title":{
-               "text":"The Muse"
-
+               "text":"The Muse",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-muse-20908/"
             },
             "episode":"21",
             "date":"4/29/96",
@@ -1043,8 +1043,8 @@
          },
          {
             "title":{
-               "text":"For the Cause"
-
+               "text":"For the Cause",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/for-the-cause-20909/"
             },
             "episode":"22",
             "date":"5/6/96",
@@ -1054,8 +1054,8 @@
          },
          {
             "title":{
-               "text":"To the Death"
-
+               "text":"To the Death",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/to-the-death-20910/"
             },
             "episode":"23",
             "date":"5/13/96",
@@ -1065,8 +1065,8 @@
          },
          {
             "title":{
-               "text":"The Quickening"
-
+               "text":"The Quickening",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-quickening-20911/"
             },
             "episode":"24",
             "date":"5/20/96",
@@ -1076,8 +1076,8 @@
          },
          {
             "title":{
-               "text":"Body Parts"
-
+               "text":"Body Parts",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/body-parts-20912/"
             },
             "episode":"25",
             "date":"6/10/96",
@@ -1087,8 +1087,8 @@
          },
          {
             "title":{
-               "text":"Broken Link"
-
+               "text":"Broken Link",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/broken-link-20913/"
             },
             "episode":"26",
             "date":"6/17/96",
@@ -1103,8 +1103,8 @@
       "episodes":[
          {
             "title":{
-               "text":"Apocalypse Rising"
-
+               "text":"Apocalypse Rising",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/apocalypse-rising-20914/"
             },
             "episode":"1",
             "date":"9/30/96",
@@ -1114,8 +1114,8 @@
          },
          {
             "title":{
-               "text":"The Ship"
-
+               "text":"The Ship",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-ship-20915/"
             },
             "episode":"2",
             "date":"10/7/96",
@@ -1125,8 +1125,8 @@
          },
          {
             "title":{
-               "text":"Looking for par'Mach in All the Wrong Places"
-
+               "text":"Looking for par'Mach in All the Wrong Places",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/looking-for-parmach-in-all-the-wrong-places-20916/"
             },
             "episode":"3",
             "date":"10/14/96",
@@ -1136,8 +1136,8 @@
          },
          {
             "title":{
-               "text":"...Nor the Battle to the Strong"
-
+               "text":"...Nor the Battle to the Strong",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/nor-the-battle-to-the-strong-20917/"
             },
             "episode":"4",
             "date":"10/21/96",
@@ -1147,8 +1147,8 @@
          },
          {
             "title":{
-               "text":"The Assignment"
-
+               "text":"The Assignment",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-assignment-20918/"
             },
             "episode":"5",
             "date":"10/28/96",
@@ -1158,8 +1158,8 @@
          },
          {
             "title":{
-               "text":"Trials and Tribble-ations"
-
+               "text":"Trials and Tribble-ations",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/trials-and-tribble-ations-20919/"
             },
             "episode":"6",
             "date":"11/4/96",
@@ -1169,8 +1169,8 @@
          },
          {
             "title":{
-               "text":"Let He Who Is Without Sin..."
-
+               "text":"Let He Who Is Without Sin...",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/let-he-who-is-without-sin--20920/"
             },
             "episode":"7",
             "date":"11/11/96",
@@ -1180,8 +1180,8 @@
          },
          {
             "title":{
-               "text":"Things Past"
-
+               "text":"Things Past",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/things-past-20921/"
             },
             "episode":"8",
             "date":"11/18/96",
@@ -1191,8 +1191,8 @@
          },
          {
             "title":{
-               "text":"The Ascent"
-
+               "text":"The Ascent",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-ascent-20922/"
             },
             "episode":"9",
             "date":"11/25/96",
@@ -1202,8 +1202,8 @@
          },
          {
             "title":{
-               "text":"Rapture"
-
+               "text":"Rapture",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rapture-20923/"
             },
             "episode":"10",
             "date":"12/30/96",
@@ -1213,8 +1213,8 @@
          },
          {
             "title":{
-               "text":"The Darkness and the Light"
-
+               "text":"The Darkness and the Light",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-darkness-and-the-light-20924/"
             },
             "episode":"11",
             "date":"1/6/97",
@@ -1224,8 +1224,8 @@
          },
          {
             "title":{
-               "text":"The Begotten"
-
+               "text":"The Begotten",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-begotten-20925/"
             },
             "episode":"12",
             "date":"1/27/97",
@@ -1235,8 +1235,8 @@
          },
          {
             "title":{
-               "text":"For the Uniform"
-
+               "text":"For the Uniform",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/for-the-uniform-20926/"
             },
             "episode":"13",
             "date":"2/3/97",
@@ -1246,8 +1246,8 @@
          },
          {
             "title":{
-               "text":"In Purgatory's Shadow (1)"
-
+               "text":"In Purgatory's Shadow (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/in-purgatorys-shadow-1-20927/"
             },
             "episode":"14",
             "date":"2/10/97",
@@ -1257,8 +1257,8 @@
          },
          {
             "title":{
-               "text":"By Inferno's Light (2)"
-
+               "text":"By Inferno's Light (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/by-infernos-light-2-20928/"
             },
             "episode":"15",
             "date":"2/17/97",
@@ -1268,8 +1268,8 @@
          },
          {
             "title":{
-               "text":"Doctor Bashir, I Presume?"
-
+               "text":"Doctor Bashir, I Presume?",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/doctor-bashir-i-presume-20929/"
             },
             "episode":"16",
             "date":"2/24/97",
@@ -1279,8 +1279,8 @@
          },
          {
             "title":{
-               "text":"A Simple Investigation"
-
+               "text":"A Simple Investigation",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/a-simple-investigation-20930/"
             },
             "episode":"17",
             "date":"3/31/97",
@@ -1290,8 +1290,8 @@
          },
          {
             "title":{
-               "text":"Business as Usual"
-
+               "text":"Business as Usual",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/business-as-usual-20931/"
             },
             "episode":"18",
             "date":"4/7/97",
@@ -1301,8 +1301,8 @@
          },
          {
             "title":{
-               "text":"Ties of Blood and Water"
-
+               "text":"Ties of Blood and Water",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/ties-of-blood-and-water-20932/"
             },
             "episode":"19",
             "date":"4/14/97",
@@ -1312,8 +1312,8 @@
          },
          {
             "title":{
-               "text":"Ferengi Love Songs"
-
+               "text":"Ferengi Love Songs",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/ferengi-love-songs-20934/"
             },
             "episode":"20",
             "date":"4/21/97",
@@ -1323,8 +1323,8 @@
          },
          {
             "title":{
-               "text":"Soldiers of the Empire"
-
+               "text":"Soldiers of the Empire",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/soldiers-of-the-empire-20935/"
             },
             "episode":"21",
             "date":"4/28/97",
@@ -1334,8 +1334,8 @@
          },
          {
             "title":{
-               "text":"Children of Time"
-
+               "text":"Children of Time",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/children-of-time-20937/"
             },
             "episode":"22",
             "date":"5/5/97",
@@ -1345,8 +1345,8 @@
          },
          {
             "title":{
-               "text":"Blaze of Glory"
-
+               "text":"Blaze of Glory",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/blaze-of-glory-20939/"
             },
             "episode":"23",
             "date":"5/12/97",
@@ -1356,8 +1356,8 @@
          },
          {
             "title":{
-               "text":"Empok Nor"
-
+               "text":"Empok Nor",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/empok-nor-20940/"
             },
             "episode":"24",
             "date":"5/19/97",
@@ -1367,8 +1367,8 @@
          },
          {
             "title":{
-               "text":"In the Cards"
-
+               "text":"In the Cards",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/in-the-cards-20943/"
             },
             "episode":"25",
             "date":"6/9/97",
@@ -1378,8 +1378,8 @@
          },
          {
             "title":{
-               "text":"Call to Arms (1)"
-
+               "text":"Call to Arms (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/call-to-arms-1-20945/"
             },
             "episode":"26",
             "date":"6/16/97",
@@ -1394,8 +1394,8 @@
       "episodes":[
          {
             "title":{
-               "text":"A Time to Stand (2)"
-
+               "text":"A Time to Stand (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/a-time-to-stand-2-20947/"
             },
             "episode":"1",
             "date":"9/29/97",
@@ -1405,8 +1405,8 @@
          },
          {
             "title":{
-               "text":"Rocks and Shoals (3)"
-
+               "text":"Rocks and Shoals (3)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rocks-and-shoals-3-20950/"
             },
             "episode":"2",
             "date":"10/6/97",
@@ -1416,8 +1416,8 @@
          },
          {
             "title":{
-               "text":"Sons and Daughters (4)"
-
+               "text":"Sons and Daughters (4)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/sons-and-daughters-4-20953/"
             },
             "episode":"3",
             "date":"10/13/97",
@@ -1427,8 +1427,8 @@
          },
          {
             "title":{
-               "text":"Behind the Lines (5)"
-
+               "text":"Behind the Lines (5)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/behind-the-lines-5-20954/"
             },
             "episode":"4",
             "date":"10/20/97",
@@ -1438,8 +1438,8 @@
          },
          {
             "title":{
-               "text":"Favor the Bold (6)"
-
+               "text":"Favor the Bold (6)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/favor-the-bold-6-20955/"
             },
             "episode":"5",
             "date":"10/27/97",
@@ -1449,8 +1449,8 @@
          },
          {
             "title":{
-               "text":"Sacrifice of Angels (7)"
-
+               "text":"Sacrifice of Angels (7)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/sacrifice-of-angels-7-20956/"
             },
             "episode":"6",
             "date":"11/3/97",
@@ -1460,8 +1460,8 @@
          },
          {
             "title":{
-               "text":"You Are Cordially Invited..."
-
+               "text":"You Are Cordially Invited...",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/you-are-cordially-invited--20957/"
             },
             "episode":"7",
             "date":"11/10/97",
@@ -1471,8 +1471,8 @@
          },
          {
             "title":{
-               "text":"Resurrection"
-
+               "text":"Resurrection",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/resurrection-20958/"
             },
             "episode":"8",
             "date":"11/17/97",
@@ -1482,8 +1482,8 @@
          },
          {
             "title":{
-               "text":"Statistical Probabilities"
-
+               "text":"Statistical Probabilities",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/statistical-probabilities-20959/"
             },
             "episode":"9",
             "date":"11/24/97",
@@ -1493,8 +1493,8 @@
          },
          {
             "title":{
-               "text":"The Magnificent Ferengi"
-
+               "text":"The Magnificent Ferengi",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-magnificent-ferengi-20960/"
             },
             "episode":"10",
             "date":"1/1/98",
@@ -1504,8 +1504,8 @@
          },
          {
             "title":{
-               "text":"Waltz"
-
+               "text":"Waltz",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/waltz-20961/"
             },
             "episode":"11",
             "date":"1/8/98",
@@ -1515,8 +1515,8 @@
          },
          {
             "title":{
-               "text":"Who Mourns for Morn?"
-
+               "text":"Who Mourns for Morn?",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/who-mourns-for-morn-20962/"
             },
             "episode":"12",
             "date":"2/4/98",
@@ -1526,8 +1526,8 @@
          },
          {
             "title":{
-               "text":"Far Beyond the Stars"
-
+               "text":"Far Beyond the Stars",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/far-beyond-the-stars-20963/"
             },
             "episode":"13",
             "date":"2/11/98",
@@ -1537,8 +1537,8 @@
          },
          {
             "title":{
-               "text":"One Little Ship"
-
+               "text":"One Little Ship",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/one-little-ship-20964/"
             },
             "episode":"14",
             "date":"2/18/98",
@@ -1548,8 +1548,8 @@
          },
          {
             "title":{
-               "text":"Honor Among Thieves"
-
+               "text":"Honor Among Thieves",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/honor-among-thieves-20965/"
             },
             "episode":"15",
             "date":"2/25/98",
@@ -1559,8 +1559,8 @@
          },
          {
             "title":{
-               "text":"Change of Heart"
-
+               "text":"Change of Heart",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/change-of-heart-20966/"
             },
             "episode":"16",
             "date":"3/4/98",
@@ -1570,8 +1570,8 @@
          },
          {
             "title":{
-               "text":"Wrongs Darker than Death or Night"
-
+               "text":"Wrongs Darker than Death or Night",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/wrongs-darker-than-death-or-night-20967/"
             },
             "episode":"17",
             "date":"4/1/98",
@@ -1581,8 +1581,8 @@
          },
          {
             "title":{
-               "text":"Inquisition"
-
+               "text":"Inquisition",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/inquisition-20968/"
             },
             "episode":"18",
             "date":"4/8/98",
@@ -1592,8 +1592,8 @@
          },
          {
             "title":{
-               "text":"In the Pale Moonlight"
-
+               "text":"In the Pale Moonlight",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/in-the-pale-moonlight-20970/"
             },
             "episode":"19",
             "date":"4/15/98",
@@ -1603,8 +1603,8 @@
          },
          {
             "title":{
-               "text":"His Way"
-
+               "text":"His Way",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/his-way-20973/"
             },
             "episode":"20",
             "date":"4/22/98",
@@ -1614,8 +1614,8 @@
          },
          {
             "title":{
-               "text":"The Reckoning"
-
+               "text":"The Reckoning",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-reckoning-20974/"
             },
             "episode":"21",
             "date":"4/29/98",
@@ -1625,8 +1625,8 @@
          },
          {
             "title":{
-               "text":"Valiant"
-
+               "text":"Valiant",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/valiant-20976/"
             },
             "episode":"22",
             "date":"5/6/98",
@@ -1636,8 +1636,8 @@
          },
          {
             "title":{
-               "text":"Profit and Lace"
-
+               "text":"Profit and Lace",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/profit-and-lace-20979/"
             },
             "episode":"23",
             "date":"5/13/98",
@@ -1647,8 +1647,8 @@
          },
          {
             "title":{
-               "text":"Time's Orphan"
-
+               "text":"Time's Orphan",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/times-orphan-20981/"
             },
             "episode":"24",
             "date":"5/20/98",
@@ -1658,8 +1658,8 @@
          },
          {
             "title":{
-               "text":"The Sound of Her Voice"
-
+               "text":"The Sound of Her Voice",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-sound-of-her-voice-20983/"
             },
             "episode":"25",
             "date":"6/10/98",
@@ -1669,8 +1669,8 @@
          },
          {
             "title":{
-               "text":"Tears of the Prophets (1)"
-
+               "text":"Tears of the Prophets (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/tears-of-the-prophets-1-20984/"
             },
             "episode":"26",
             "date":"6/17/98",
@@ -1685,8 +1685,8 @@
       "episodes":[
          {
             "title":{
-               "text":"Image in the Sand (2)"
-
+               "text":"Image in the Sand (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/image-in-the-sand-2-20986/"
             },
             "episode":"1",
             "date":"9/30/98",
@@ -1696,8 +1696,8 @@
          },
          {
             "title":{
-               "text":"Shadows and Symbols (3)"
-
+               "text":"Shadows and Symbols (3)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/shadows-and-symbols-3-20989/"
             },
             "episode":"2",
             "date":"10/7/98",
@@ -1707,8 +1707,8 @@
          },
          {
             "title":{
-               "text":"Afterimage"
-
+               "text":"Afterimage",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/afterimage-20990/"
             },
             "episode":"3",
             "date":"10/14/98",
@@ -1718,8 +1718,8 @@
          },
          {
             "title":{
-               "text":"Take Me Out to the Holosuite"
-
+               "text":"Take Me Out to the Holosuite",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/take-me-out-to-the-holosuite-20991/"
             },
             "episode":"4",
             "date":"10/21/98",
@@ -1729,8 +1729,8 @@
          },
          {
             "title":{
-               "text":"Chrysalis"
-
+               "text":"Chrysalis",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/chrysalis-20992/"
             },
             "episode":"5",
             "date":"10/28/98",
@@ -1740,8 +1740,8 @@
          },
          {
             "title":{
-               "text":"Treachery, Faith and the Great River"
-
+               "text":"Treachery, Faith and the Great River",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/treachery-faith-and-the-great-river-20993/"
             },
             "episode":"6",
             "date":"11/4/98",
@@ -1751,8 +1751,8 @@
          },
          {
             "title":{
-               "text":"Once More Unto the Breach"
-
+               "text":"Once More Unto the Breach",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/once-more-unto-the-breach-20995/"
             },
             "episode":"7",
             "date":"11/11/98",
@@ -1762,8 +1762,8 @@
          },
          {
             "title":{
-               "text":"The Siege of AR-558"
-
+               "text":"The Siege of AR-558",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-siege-of-ar-558-20997/"
             },
             "episode":"8",
             "date":"11/18/98",
@@ -1773,8 +1773,8 @@
          },
          {
             "title":{
-               "text":"Covenant"
-
+               "text":"Covenant",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/covenant-20999/"
             },
             "episode":"9",
             "date":"11/25/98",
@@ -1784,8 +1784,8 @@
          },
          {
             "title":{
-               "text":"It's Only a Paper Moon"
-
+               "text":"It's Only a Paper Moon",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/its-only-a-paper-moon-21002/"
             },
             "episode":"10",
             "date":"12/30/98",
@@ -1795,8 +1795,8 @@
          },
          {
             "title":{
-               "text":"Prodigal Daughter"
-
+               "text":"Prodigal Daughter",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/prodigal-daughter-21003/"
             },
             "episode":"11",
             "date":"1/6/99",
@@ -1806,8 +1806,8 @@
          },
          {
             "title":{
-               "text":"The Emperor's New Cloak"
-
+               "text":"The Emperor's New Cloak",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-emperors-new-cloak-21005/"
             },
             "episode":"12",
             "date":"2/3/99",
@@ -1817,8 +1817,8 @@
          },
          {
             "title":{
-               "text":"Field of Fire"
-
+               "text":"Field of Fire",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/field-of-fire-21006/"
             },
             "episode":"13",
             "date":"2/10/99",
@@ -1828,8 +1828,8 @@
          },
          {
             "title":{
-               "text":"Chimera"
-
+               "text":"Chimera",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/chimera-21007/"
             },
             "episode":"14",
             "date":"2/17/99",
@@ -1839,8 +1839,8 @@
          },
          {
             "title":{
-               "text":"Badda-Bing, Badda-Bang"
-
+               "text":"Badda-Bing, Badda-Bang",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/badda-bing-badda-bang-21008/"
             },
             "episode":"15",
             "date":"2/24/99",
@@ -1850,8 +1850,8 @@
          },
          {
             "title":{
-               "text":"Inter Arma Enim Silent Leges"
-
+               "text":"Inter Arma Enim Silent Leges",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/inter-arma-enim-silent-leges-21010/"
             },
             "episode":"16",
             "date":"3/3/99",
@@ -1861,8 +1861,8 @@
          },
          {
             "title":{
-               "text":"Penumbra (1)"
-
+               "text":"Penumbra (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/penumbra-1-21011/"
             },
             "episode":"17",
             "date":"4/7/99",
@@ -1872,8 +1872,8 @@
          },
          {
             "title":{
-               "text":"'Til Death Do Us Part (2)"
-
+               "text":"'Til Death Do Us Part (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/til-death-do-us-part-2-21012/"
             },
             "episode":"18",
             "date":"4/14/99",
@@ -1883,8 +1883,8 @@
          },
          {
             "title":{
-               "text":"Strange Bedfellows (3)"
-
+               "text":"Strange Bedfellows (3)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/strange-bedfellows-3-21014/"
             },
             "episode":"19",
             "date":"4/21/99",
@@ -1894,8 +1894,8 @@
          },
          {
             "title":{
-               "text":"The Changing Face of Evil (4)"
-
+               "text":"The Changing Face of Evil (4)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-changing-face-of-evil-4-21016/"
             },
             "episode":"20",
             "date":"4/28/99",
@@ -1905,8 +1905,8 @@
          },
          {
             "title":{
-               "text":"When It Rains... (5)"
-
+               "text":"When It Rains... (5)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/when-it-rains-5-21018/"
             },
             "episode":"21",
             "date":"5/5/99",
@@ -1916,8 +1916,8 @@
          },
          {
             "title":{
-               "text":"Tacking Into the Wind (6)"
-
+               "text":"Tacking Into the Wind (6)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/tacking-into-the-wind-6-21020/"
             },
             "episode":"22",
             "date":"5/12/99",
@@ -1927,8 +1927,8 @@
          },
          {
             "title":{
-               "text":"Extreme Measures (7)"
-
+               "text":"Extreme Measures (7)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/extreme-measures-7-21022/"
             },
             "episode":"23",
             "date":"5/19/99",
@@ -1938,8 +1938,8 @@
          },
          {
             "title":{
-               "text":"The Dogs of War (8)"
-
+               "text":"The Dogs of War (8)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-dogs-of-war-8-21024/"
             },
             "episode":"24",
             "date":"5/26/99",
@@ -1949,8 +1949,8 @@
          },
          {
             "title":{
-               "text":"What You Leave Behind (1)"
-
+               "text":"What You Leave Behind (1)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/what-you-leave-behind-1-21025/"
             },
             "episode":"25",
             "date":"6/2/99",
@@ -1960,8 +1960,8 @@
          },
          {
             "title":{
-               "text":"What You Leave Behind (2)"
-
+               "text":"What You Leave Behind (2)",
+               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/what-you-leave-behind-2-21027/"
             },
             "episode":"26",
             "date":"6/2/99",
