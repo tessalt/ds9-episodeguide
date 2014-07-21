@@ -1,5 +1,5 @@
 /** @jsx React.DOM */
-var Seasons = React.createClass({displayName: 'Seasons',
+var Seasons = React.createClass({
   getInitialState: function() {
     return {data: []};
   },
@@ -22,14 +22,14 @@ var Seasons = React.createClass({displayName: 'Seasons',
   },
   render: function() {
     return (
-      React.DOM.div({className: "seasonList"}, 
-        SeasonList({picks: this.state.picks, seasons: this.state.data})
-      )
+      <div className="seasonList">
+        <SeasonList picks={this.state.picks} seasons={this.state.data} />
+      </div>
     )
   }
 });
 
-var SeasonList = React.createClass({displayName: 'SeasonList',
+var SeasonList = React.createClass({
   getInitialState: function() {
     return {seasons: []}
   },
@@ -59,14 +59,14 @@ var SeasonList = React.createClass({displayName: 'SeasonList',
   render: function() {
     var seasonNodes = this.state.seasons.map(function (season, index) {
       return (
-        Season({key: index, data: season})
+        <Season key={index} data={season} />
       )
     });
-    return React.DOM.div(null, seasonNodes);
+    return <div>{seasonNodes}</div>;
   }
 });
 
-var Season = React.createClass({displayName: 'Season',
+var Season = React.createClass({
   getInitialState: function() {
     return {
       filteredEps: [],
@@ -93,24 +93,24 @@ var Season = React.createClass({displayName: 'Season',
     var key = this.props.key;
     var epNodes = this.state.filteredEps.map(function (ep, index){
       return (
-        Episode({key: index, data: ep, seasonNo: key})
+        <Episode key={index} data={ep} seasonNo={key} />
       )
     });
     var displayClass = this.state.display ? 'open' : 'closed';
     var iconClass = this.state.display ? 'minus' : 'plus';
     return (
-      React.DOM.div({className: "season"}, 
-        React.DOM.h2({onClick: this.toggleDisplay}, 
-          "Season ", this.props.key + 1, 
-          React.DOM.span({className: "glyphicon glyphicon-" + iconClass})
-        ), 
-        React.DOM.ul({ref: "seasonUl", className: "episodes " + displayClass}, epNodes)
-      )
+      <div className="season">
+        <h2 onClick={this.toggleDisplay}>
+          Season {this.props.key + 1}
+          <span className={"glyphicon glyphicon-" + iconClass}></span>
+        </h2>
+        <ul ref="seasonUl" className={"episodes " + displayClass}>{epNodes}</ul>
+      </div>
     )
   }
 });
 
-var Episode = React.createClass({displayName: 'Episode',
+var Episode = React.createClass({
   getInitialState: function() {
     return {
       episode: this.props.data,
@@ -132,63 +132,63 @@ var Episode = React.createClass({displayName: 'Episode',
   render: function() {
     var displayClass = this.state.showDesc ? 'open' : 'closed';
     return (
-      React.DOM.li({className: 'episode watched-' + this.state.episode.watched, key: this.props.key}, 
-        React.DOM.div({className: "media"}, 
-          React.DOM.div({className: "pull-left"}, 
-            React.DOM.div({className: "watched", onClick: this.toggleSave}, 
-              WatchedIndicator({watched: this.state.episode.watched})
-            )
-          ), 
-          React.DOM.div({className: "media-body", onClick: this.showDesc}, 
-            React.DOM.div({className: "media-heading"}, 
-              React.DOM.small(null, "Episode ", this.state.episode.episode), 
-              React.DOM.h3(null, this.state.episode.title.text)
-            ), 
-            Rating({val: this.state.episode.rating})
-          ), 
-          Description({
-            display: displayClass, 
-            notes: this.state.episode.notes, 
-            content: this.state.episode.description, 
-            link: this.state.episode.title.href})
-        )
-      )
+      <li className={'episode watched-' + this.state.episode.watched} key={this.props.key}>
+        <div className="media">
+          <div className="pull-left">
+            <div className='watched' onClick={this.toggleSave}>
+              <WatchedIndicator watched={this.state.episode.watched} />
+            </div>
+          </div>
+          <div className="media-body"  onClick={this.showDesc}>
+            <div className="media-heading">
+              <small>Episode {this.state.episode.episode}</small>
+              <h3>{this.state.episode.title.text}</h3>
+            </div>
+            <Rating val={this.state.episode.rating} />
+          </div>
+          <Description
+            display={displayClass}
+            notes={this.state.episode.notes}
+            content={this.state.episode.description}
+            link={this.state.episode.title.href} />
+        </div>
+      </li>
     )
   }
 });
 
-var Description = React.createClass({displayName: 'Description',
+var Description = React.createClass({
   render: function() {
     return (
-      React.DOM.div({className: 'description ' + this.props.display}, 
-        React.DOM.p(null, this.props.content), 
-        React.DOM.p(null, React.DOM.strong(null, this.props.notes ? 'Notes: ' : ''), this.props.notes), 
-        React.DOM.p(null, React.DOM.a({target: "_blank", href: this.props.link}, "View full description"))
-      )
+      <div className={'description ' + this.props.display}>
+        <p>{this.props.content}</p>
+        <p><strong>{this.props.notes ? 'Notes: ' : ''}</strong>{this.props.notes}</p>
+        <p><a target="_blank" href={this.props.link}>View full description</a></p>
+      </div>
     )
   }
 });
 
-var WatchedIndicator = React.createClass({displayName: 'WatchedIndicator',
+var WatchedIndicator = React.createClass({
   render: function() {
     var iconClass = this.props.watched === 'true' ? 'ok' : 'unchecked';
     return (
-      React.DOM.span({className: 'glyphicon glyphicon-' + iconClass})
+      <span className={'glyphicon glyphicon-' + iconClass}></span>
     )
   }
 });
 
-var Rating = React.createClass({displayName: 'Rating',
+var Rating = React.createClass({
   render: function() {
     var rating = parseFloat(this.props.val);
     var ratingClass = rating >= 8 ? 'high' : 'med';
     return (
-      React.DOM.span({className: 'rating rating-' + ratingClass}, this.props.val)
+      <span className={'rating rating-' + ratingClass}>{this.props.val}</span>
     )
   }
 });
 
 React.renderComponent(
-  Seasons({url: "data/episodes.json"}),
+  <Seasons url="data/episodes.json" />,
   document.getElementById('container')
 );
