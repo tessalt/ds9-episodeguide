@@ -14,6 +14,7 @@ var Seasons = React.createClass({
         }.bind(this),
         complete: function(data, more){
           console.log(data);
+          console.log(more);
         }
       });
     } else {
