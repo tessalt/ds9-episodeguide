@@ -10,9 +10,12 @@ var Seasons = React.createClass({
         url: this.props.url,
         success: function(data) {
           localStorage.setItem('episodes', JSON.stringify(data));
-          //this.setState({data: data});
+          this.setState({data: data});
+        }.bind(this),
+        complete: function() {
+
           this.setState({data: JSON.parse(localEps)});
-        }.bind(this)
+        }
       });
     } else {
       this.setState({data: JSON.parse(localEps)});
