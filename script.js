@@ -8,14 +8,11 @@ var Seasons = React.createClass({
     if (!localEps) {
       $.ajax({
         url: this.props.url,
-        success: function(data, status) {
-          console.log(status);
+        success: function(data) {
           localStorage.setItem('episodes', JSON.stringify(data));
-          this.setState({data: data});
-        }.bind(this),
-        complete: function(data, status){
-          console.log(status);
-        }
+          //this.setState({data: data});
+          this.setState({data: JSON.parse(localEps)});
+        }.bind(this)
       });
     } else {
       this.setState({data: JSON.parse(localEps)});
