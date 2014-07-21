@@ -55,17 +55,21 @@ h3 {
 
 .description.closed {
   -webkit-transition: all .5s;
+  transition: all .5s;
   max-height: 0;
 }
 
 .description.open {
   -webkit-transition: all 1s;
+  transition: all 1s;
   max-height: 200px;
 }
 
 .episode {
   background: rgba(255,255,255,0.2);
   margin-bottom: 8px;
+  -webkit-transition: opacity .2s;
+  transition: opacity .2s;
 }
 
 .episode.watched-true {
