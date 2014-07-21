@@ -11,10 +11,6 @@
             "date":"1/3/93",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/emissary-1-20814/",
-               "alt":"Emissary (1)"
-            },
             "description":"A new crew is assigned to a former Cardassian space station: Deep Space Nine. It is a joint Federation/Bajoran force, with Commander Sisko in charge, but his life is dramatically changed when he is declared the Emissary to the Prophets by a Bajoran priest."
          },
          {
@@ -26,10 +22,6 @@
             "date":"1/3/93",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/emissary-2-20815/",
-               "alt":"Emissary (2)"
-            },
             "description":"A new crew is assigned to a former Cardassian space station: Deep Space Nine. It is a joint Federation/Bajoran force, with Commander Sisko in charge, but his life is dramatically changed when he is declared the Emissary to the Prophets by a Bajoran priest."
          },
          {
@@ -41,10 +33,6 @@
             "date":"1/17/93",
             "rating":"7.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/a-man-alone-20817/",
-               "alt":"A Man Alone"
-            },
             "description":"A Bajoran terrorist with ties to Kira arrives on Deep Space Nine, however he is pursued by the Cardassians. Garak is introduced."
          },
          {
@@ -56,10 +44,6 @@
             "date":"1/10/93",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/past-prologue-20816/",
-               "alt":"Past Prologue"
-            },
             "description":"Odo is accused of the murder of a Bajoran murderer."
          },
          {
@@ -71,10 +55,6 @@
             "date":"1/24/93",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/babel-20818/",
-               "alt":"Babel"
-            },
             "description":"A mysterious virus plagues the station, causing speech distortions and eventually death."
          },
          {
@@ -86,10 +66,6 @@
             "date":"1/31/93",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/captive-pursuit-20819/",
-               "alt":"Captive Pursuit"
-            },
             "description":"O'Brien befriends an alien from the Gamma Quadrant who is being hunted."
          },
          {
@@ -101,10 +77,6 @@
             "date":"2/7/93",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/q-less-20820/",
-               "alt":"Q-Less"
-            },
             "description":"Q and Vash arrive on Deep Space Nine. However Vash has realized the annoyance of Q and wants him to leave her alone."
          },
          {
@@ -116,10 +88,6 @@
             "date":"2/14/93",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/dax-20821/",
-               "alt":"Dax"
-            },
             "description":"Jadzia Dax is accused of a murder committed by her symbiont in another lifetime.",
             "notes": "Skip it if you don't care about the back-story of the Dax symbiont"
          },
@@ -132,10 +100,6 @@
             "date":"2/22/93",
             "rating":"7.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-passenger-20822/",
-               "alt":"The Passenger"
-            },
             "description":"A sinister criminal is hiding in the mind of someone on Deep Space Nine, but Bashir struggles to understand how it works."
          },
          {
@@ -147,10 +111,6 @@
             "date":"3/14/93",
             "rating":"6.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/move-along-home-20823/",
-               "alt":"Move Along Home"
-            },
             "description":"Quark is forced to play a game by the Wadi, a newly encountered species, and the lives of the crew depend on the outcome."
          },
          {
@@ -162,10 +122,6 @@
             "date":"3/21/93",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-nagus-20824/",
-               "alt":"The Nagus"
-            },
             "description":"Quark is named as the head of the Ferengi Alliance by Grand Nagus Zek, but he is now surrounded by enemies."
          },
          {
@@ -177,10 +133,6 @@
             "date":"4/18/93",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/vortex-20825/",
-               "alt":"Vortex"
-            },
             "description":"Odo discovers he may not be the only one of his kind when a visitor from the Gamma Quadrant claims he can contact Odo's people."
          },
          {
@@ -192,10 +144,6 @@
             "date":"4/25/93",
             "rating":"7.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/battle-lines-20826/",
-               "alt":"Battle Lines"
-            },
             "description":"The spiritual leader of Bajor, Kai Opaka, travels with Sisko on a trip to the Gamma Quadrant but is stranded with him on a world where the dead are resurrected."
          },
          {
@@ -207,10 +155,6 @@
             "date":"5/2/93",
             "rating":"6.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-storyteller-20827/",
-               "alt":"The Storyteller"
-            },
             "description":"O'Brien is recruited to save a Bajoran village from destruction by a mysterious cloud creature."
          },
          {
@@ -222,10 +166,6 @@
             "date":"5/9/93",
             "rating":"7.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/progress-20828/",
-               "alt":"Progress"
-            },
             "description":"Kira has to deal with a stubborn farmer (Brian Keith) who refuses to leave his home even though it is slated for destruction."
          },
          {
@@ -237,10 +177,6 @@
             "date":"5/16/93",
             "rating":"7.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/if-wishes-were-horses-20829/",
-               "alt":"If Wishes Were Horses"
-            },
             "description":"Deep Space Nine is put in jeopardy when the crew's thoughts manifest themselves, and such figures as Rumpelstiltskin appear."
          },
          {
@@ -252,10 +188,6 @@
             "date":"5/23/93",
             "rating":"7.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-forsaken-20830/",
-               "alt":"The Forsaken"
-            },
             "description":"The Federation ambassador from Betazed, Lwaxana Troi, visits the station, but develops an affection for Odo."
          },
          {
@@ -267,10 +199,6 @@
             "date":"5/30/93",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/dramatis-personae-20831/",
-               "alt":"Dramatis Personae"
-            },
             "description":"A Klingon ship comes through the wormhole and explodes. A mutiny is considered."
          },
          {
@@ -282,10 +210,6 @@
             "date":"6/13/93",
             "rating":"9.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/duet-20832/",
-               "alt":"Duet"
-            },
             "description":"A visiting Cardassian, Marritza may in fact be a notorious war criminal Gul Darhe'el, butcher of Gallitep Labor camp, and Kira is determined to bring him down."
          },
          {
@@ -297,10 +221,6 @@
             "date":"6/20/93",
             "rating":"8.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/in-the-hands-of-the-prophets-20833/",
-               "alt":"In the Hands of the Prophets"
-            },
             "description":"Friction escalates when Vedek Winn arrives on Deep Space Nine and discovers schoolteacher Keiko O'Brien is teaching about aliens in the Bajoran wormhole."
          }
       ]
@@ -317,10 +237,6 @@
             "date":"9/26/93",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-homecoming-1-20834/",
-               "alt":"The Homecoming (1)"
-            },
             "description":"Quark gives Kira a Bajoran earring he claims was sent as a message from a Cardassian mining planet."
          },
          {
@@ -332,10 +248,6 @@
             "date":"10/3/93",
             "rating":"8.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-circle-2-20835/",
-               "alt":"The Circle (2)"
-            },
             "description":"The Circle attempts to topple the Bajoran government, but there is more to the situation than meets the eye."
          },
          {
@@ -347,10 +259,6 @@
             "date":"10/10/93",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-siege-3-20836/",
-               "alt":"The Siege (3)"
-            },
             "description":"Sisko and Li Nalas help stop Deep Space Nine from being commandeered by the Bajorans, while Kira and Dax try to put an end to the Circle by presenting evidence that Minister Jaro is being backed by the Cardassians."
          },
          {
@@ -362,10 +270,6 @@
             "date":"10/17/93",
             "rating":"7.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/invasive-procedures-20837/",
-               "alt":"Invasive Procedures"
-            },
             "description":"A plasma storm leads to the evacuation of most of the station, but a Trill refugee has his own plans."
          },
          {
@@ -377,10 +281,6 @@
             "date":"10/24/93",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/cardassians-20838/",
-               "alt":"Cardassians"
-            },
             "description":"Garak investigates the identity of a Cardassian boy, Rugal, abandoned on Bajor, who has been brought up by Bajorans, Proka Migdal."
          },
          {
@@ -392,10 +292,6 @@
             "date":"10/31/93",
             "rating":"6.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/melora-20839/",
-               "alt":"Melora"
-            },
             "description":"Bashir tries to help Ensign Melora Pazlar, the first Elaysian to join Starfleet, adjust to \"normal\" gravity."
          },
          {
@@ -407,10 +303,6 @@
             "date":"11/7/93",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rules-of-acquisition-20840/",
-               "alt":"Rules of Acquisition"
-            },
             "description":"Quark represents Grand Nagus Zek in a plot to establish a Ferengi business presence in the Gamma Quadrant. Pel, a young Ferengi, teams up with Quark and they learn that to do business in the Gamma Quadrant they must contact the Keremma, a member race of the Dominion."
          },
          {
@@ -422,10 +314,6 @@
             "date":"11/14/93",
             "rating":"8.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/necessary-evil-20841/",
-               "alt":"Necessary Evil"
-            },
             "description":"When Quark is shot, Odo re-opens a five-year-old murder case of Mr. Vaatrik who was a Cardassian collaborator."
          },
          {
@@ -437,10 +325,6 @@
             "date":"11/21/93",
             "rating":"6.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/second-sight-20842/",
-               "alt":"Second Sight"
-            },
             "description":"A mysterious woman, Fenna, catches Sisko's eye during their fleeting meetings."
          },
          {
@@ -452,10 +336,6 @@
             "date":"11/28/93",
             "rating":"6.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/sanctuary-20843/",
-               "alt":"Sanctuary"
-            },
             "description":"The Skrreea, displaced humanoid farmers from the Gamma Quadrant, claim Bajor as Kentanna, their legendary homeland."
          },
          {
@@ -467,10 +347,6 @@
             "date":"1/2/94",
             "rating":"7.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rivals-20844/",
-               "alt":"Rivals"
-            },
             "description":"Quark feels threatened when a charming swindler, Martus Mazur, opens a competing bar (Club Martus)."
          },
          {
@@ -482,10 +358,6 @@
             "date":"1/9/94",
             "rating":"7.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-alternate-20845/",
-               "alt":"The Alternate"
-            },
             "description":"A scientist, Dr. Mora Pol of the Bajoran Science Institute, finds a life-form in the Gamma Quadrant that may be related to Odo."
          },
          {
@@ -497,10 +369,6 @@
             "date":"1/30/94",
             "rating":"8.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/armageddon-game-20846/",
-               "alt":"Armageddon Game"
-            },
             "description":"O'Brien and Bashir help two warring races, the Kellerans and T'lani, erase all knowledge of a deadly biological weapon, but are not trusted to keep what they have learned a secret."
          },
          {
@@ -512,10 +380,6 @@
             "date":"2/6/94",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/whispers-20847/",
-               "alt":"Whispers"
-            },
             "description":"While preparing the station for upcoming peace talks, O'Brien discovers that the crew have been hiding information from him and giving orders behind his back. O'Brien begins to suspect everyone on the station is gradually being altered or replaced by an unknown force."
          },
          {
@@ -527,10 +391,6 @@
             "date":"2/13/94",
             "rating":"7.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/paradise-20848/",
-               "alt":"Paradise"
-            },
             "description":"Commander Sisko and Chief O'Brien are stranded on a planet, Aurelius, where their leader, Alixus, rejects technology, even when it means the death of others."
          },
          {
@@ -542,10 +402,6 @@
             "date":"2/20/94",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/shadowplay-20850/",
-               "alt":"Shadowplay"
-            },
             "description":"Odo and Dax investigate why a city's residents are disappearing."
          },
          {
@@ -557,10 +413,6 @@
             "date":"2/27/94",
             "rating":"7.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/playing-god-20851/",
-               "alt":"Playing God"
-            },
             "description":"A proto-universe threatens to destroy the station and Bajor. Dax has a field docent (a trill candidate initiate), named Arjin, whom she helps find his voice — to discover what he wants from life and from joining."
          },
          {
@@ -572,10 +424,6 @@
             "date":"3/20/94",
             "rating":"7.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/profit-and-loss-20852/",
-               "alt":"Profit and Loss"
-            },
             "description":"Quark is reunited with his former Cardassian lover, Natima Lang, but she is engaged in dangerous political intrigue with her students Rekela and Hogue: they want to reduce the political power of the Cardassian military."
          },
          {
@@ -587,10 +435,6 @@
             "date":"3/27/94",
             "rating":"8.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/blood-oath-20853/",
-               "alt":"Blood Oath"
-            },
             "description":"Jadzia Dax honors an oath made by Curzon Dax to three Klingons (Kor, Koloth, and Kang), and goes with them on a crusade against their sworn enemy \"the Albino\" who murdered their firstborn children as revenge for stopping his raid on a Klingon colony."
          },
          {
@@ -602,10 +446,6 @@
             "date":"4/24/94",
             "rating":"8.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-maquis-1-20854/",
-               "alt":"The Maquis (1)"
-            },
             "description":"Federation colonists reject a treaty with Cardassia and take matters into their own hands, forming a terrorist group called 'The Maquis'."
          },
          {
@@ -617,10 +457,6 @@
             "date":"5/1/94",
             "rating":"8.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-maquis-2-20855/",
-               "alt":"The Maquis (2)"
-            },
             "description":"Federation colonists reject a treaty with Cardassia and take matters into their own hands by planning to destroy a weapons depot at the Cardassian Bryma colony."
          },
          {
@@ -632,10 +468,6 @@
             "date":"5/8/94",
             "rating":"8.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-wire-20856/",
-               "alt":"The Wire"
-            },
             "description":"In order to save Garak's life, Bashir must unravel some of the secrets in the Cardassian's past."
          },
          {
@@ -647,10 +479,6 @@
             "date":"5/15/94",
             "rating":"8.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/crossover-20857/",
-               "alt":"Crossover"
-            },
             "description":"Kira and Bashir accidentally cross to the Mirror Universe, where a Klingon-Cardassian alliance rules. A century before, James T. Kirk had made a similar crossover, affecting human and galactic history. Terrans are slaves on the station."
          },
          {
@@ -662,10 +490,6 @@
             "date":"5/22/94",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-collaborator-20858/",
-               "alt":"The Collaborator"
-            },
             "description":"A Bajoran, secretary Kubus, who aided the Cardassian occupation forces wants to return home from exile. Vedek Winn engages in a power play to become kai against Vedek Bareil."
          },
          {
@@ -677,10 +501,6 @@
             "date":"6/5/94",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/tribunal-20859/",
-               "alt":"Tribunal"
-            },
             "description":"O'Brien is declared guilty of an unspecified crime and later \"tried\" at a tribunal held on Cardassia Prime."
          },
          {
@@ -692,10 +512,6 @@
             "date":"6/12/94",
             "rating":"9.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-jemhadar-20860/",
-               "alt":"The Jem'Hadar"
-            },
             "description":"Sisko, Jake, Nog, and Quark go camping on a Gamma Quadrant world, but are captured by mysterious soldiers called the Jem'Hadar and meet a force, the Dominion, to rival the Federation."
          }
       ]
@@ -712,10 +528,6 @@
             "date":"9/26/94",
             "rating":"9.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-search-1-20861/",
-               "alt":"The Search (1)"
-            },
             "description":"Sisko takes the new USS Defiant into the Gamma Quadrant to find the mysterious leaders of the Dominion and avert a war, while Odo is drawn by instinct towards his home planet in the Omarion Nebula."
          },
          {
@@ -727,10 +539,6 @@
             "date":"10/3/94",
             "rating":"9.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-search-2-20862/",
-               "alt":"The Search (2)"
-            },
             "description":"Odo begins to connect with his fellow Changelings as Sisko attempts to negotiate peace with the Dominion."
          },
          {
@@ -742,10 +550,6 @@
             "date":"10/10/94",
             "rating":"8.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-house-of-quark-20864/",
-               "alt":"The House of Quark"
-            },
             "description":"Quark lies about killing a Klingon, Kozak, and is then forced to marry the widow, Grilka, founding his own 'House of Quark'."
          },
          {
@@ -757,10 +561,6 @@
             "date":"10/17/94",
             "rating":"7.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/equilibrium-20865/",
-               "alt":"Equilibrium"
-            },
             "description":"A secret from Dax's past could mean the end of the current host's life."
          },
          {
@@ -772,10 +572,6 @@
             "date":"10/24/94",
             "rating":"8.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/second-skin-20866/",
-               "alt":"Second Skin"
-            },
             "description":"Kira is kidnapped by Cardassians, surgically altered to look Cardassian and told she is actually an undercover Cardassian agent."
          },
          {
@@ -787,10 +583,6 @@
             "date":"10/31/94",
             "rating":"7.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-abandoned-20867/",
-               "alt":"The Abandoned"
-            },
             "description":"Quark purchases a salvaged ship from the Gamma Quadrant and discovers an infant on board."
          },
          {
@@ -802,10 +594,6 @@
             "date":"11/7/94",
             "rating":"9.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/civil-defense-20868/",
-               "alt":"Civil Defense"
-            },
             "description":"Deep Space Nine is progressively locked down after O'Brien, Jake and Sisko accidentally activate an automated Cardassian security program. The program's counter-insurgency measures keep escalating until it initiates an auto-destruct. Gul Dukat beams on-board but is unable to stop the self-destruct sequence."
          },
          {
@@ -817,10 +605,6 @@
             "date":"11/14/94",
             "rating":"6.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/meridian-20869/",
-               "alt":"Meridian"
-            },
             "description":"Dax falls in love with Deral who will soon disappear because he is a member of Meridian, a planet that phases between dimensions every 60 years."
          },
          {
@@ -832,10 +616,6 @@
             "date":"11/21/94",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/defiant-20870/",
-               "alt":"Defiant"
-            },
             "description":"Commander William Riker shows up unannounced and Kira shows him the Defiant, where he reveals his true motives for coming to Deep Space Nine."
          },
          {
@@ -847,10 +627,6 @@
             "date":"11/28/94",
             "rating":"6.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/fascination-20871/",
-               "alt":"Fascination"
-            },
             "description":"Lwaxana Troi pursues Odo during the Bajoran Gratitude Festival as members of the crew suddenly become infatuated with one another."
          },
          {
@@ -862,10 +638,6 @@
             "date":"1/2/95",
             "rating":"8.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/past-tense-1-20872/",
-               "alt":"Past Tense (1)"
-            },
             "description":"A transporter accident sends Sisko, Bashir, and Dax three centuries into Earth's dark past to a time just before the Bell riots, a violent civil disturbance in opposition to Sanctuaries which are controlled ghettos for the dispossessed."
          },
          {
@@ -877,10 +649,6 @@
             "date":"1/9/95",
             "rating":"8.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/past-tense-2-20873/",
-               "alt":"Past Tense (2)"
-            },
             "description":"Sisko assumes the role of a pivotal historical figure, Gabriel Bell, in order to restore the timeline."
          },
          {
@@ -892,10 +660,6 @@
             "date":"1/30/95",
             "rating":"6.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/life-support-20874/",
-               "alt":"Life Support"
-            },
             "description":"Bashir's ethics are put to the test as he keeps Vedek Bareil alive long enough to help Kai Winn complete negotiations for a peace treaty with Cardassia."
          },
          {
@@ -907,10 +671,6 @@
             "date":"2/6/95",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/heart-of-stone-20875/",
-               "alt":"Heart of Stone"
-            },
             "description":"When Kira's life is put in jeopardy Odo expresses the depth of his feelings for her."
          },
          {
@@ -922,10 +682,6 @@
             "date":"2/13/95",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/destiny-20876/",
-               "alt":"Destiny"
-            },
             "description":"Despite Trakor's Bajoran prophecy of destruction, Sisko assists in a joint scientific venture with the Cardassians to open communications through the Bajoran wormhole."
          },
          {
@@ -937,10 +693,6 @@
             "date":"2/20/95",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/prophet-motive-20877/",
-               "alt":"Prophet Motive"
-            },
             "description":"Quark discovers that Grand Nagus Zek has written a new virtuous and benevolent set of the Rules of Acquisition, which would put an end to the traditional Ferengi ways."
          },
          {
@@ -952,10 +704,6 @@
             "date":"2/27/95",
             "rating":"8.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/visionary-20878/",
-               "alt":"Visionary"
-            },
             "description":"Exposure to radiation causes O'Brien to jump five hours into the future for brief periods, as Deep Space Nine hosts Romulan and Klingon delegations."
          },
          {
@@ -967,10 +715,6 @@
             "date":"4/10/95",
             "rating":"7.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/distant-voices-20879/",
-               "alt":"Distant Voices"
-            },
             "description":"Julian Bashir is subjected to a telepathic attack by an alien seeking a restricted substance."
          },
          {
@@ -982,10 +726,6 @@
             "date":"4/17/95",
             "rating":"8.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/through-the-looking-glass-2840433/",
-               "alt":"Through The Looking Glass"
-            },
             "description":"Sisko is convinced by \"Smiley\" O'Brien from a parallel universe to assume the role of the dead Captain Sisko."
          },
          {
@@ -997,10 +737,6 @@
             "date":"4/24/95",
             "rating":"9.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/improbable-cause-1-20881/",
-               "alt":"Improbable Cause (1)"
-            },
             "description":"Garak's tailor shop is bombed, forcing Odo to investigate who is trying to kill the Cardassian exile – and why."
          },
          {
@@ -1012,10 +748,6 @@
             "date":"5/1/95",
             "rating":"9.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-die-is-cast-2-20882/",
-               "alt":"The Die Is Cast (2)"
-            },
             "description":"Garak reluctantly tortures Odo for information to prove his loyalty to his former mentor, Enabran Tain, as a joint Tal Shiar/Obsidian Order attack on the Founders in the Omarian Nebula is underway, without Starfleet's involvement."
          },
          {
@@ -1027,10 +759,6 @@
             "date":"5/8/95",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/explorers-20883/",
-               "alt":"Explorers"
-            },
             "description":"Sisko builds a replica of an ancient Bajoran space vessel and with Jake attempts to prove that the Bajorans developed interstellar travel before Cardassians."
          },
          {
@@ -1042,10 +770,6 @@
             "date":"5/15/95",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/family-business-20884/",
-               "alt":"Family Business"
-            },
             "description":"Quark returns to his home planet to confront his mother after hearing from the Ferengi Commerce Authority that she broke the law by earning profit."
          },
          {
@@ -1057,10 +781,6 @@
             "date":"5/22/95",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/shakaar-20885/",
-               "alt":"Shakaar"
-            },
             "description":"Kai Winn needs Kira to convince her former resistance leader, Shakaar, now a farmer on Bajor, to return soil reclamators needed elsewhere in Rakantha, which used to be Bajor's most productive agricultural region."
          },
          {
@@ -1072,10 +792,6 @@
             "date":"6/12/95",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/facets-20886/",
-               "alt":"Facets"
-            },
             "description":"Jadzia Dax deals with feelings of inferiority as she encounters past hosts in a Trill Zhian'tara ceremony which is able to transfer the memories of former hosts into another recipient."
          },
          {
@@ -1087,10 +803,6 @@
             "date":"6/19/95",
             "rating":"9.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-adversary-20887/",
-               "alt":"The Adversary"
-            },
             "description":"Ambassador Krajensky informs newly promoted Captain Sisko that there has been a coup on Tzenketh."
          }
       ]
@@ -1107,10 +819,6 @@
             "date":"10/2/95",
             "rating":"9.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-way-of-the-warrior-1-20888/",
-               "alt":"The Way of the Warrior (1)"
-            },
             "description":"A Klingon fleet arrives on its way to expand the Klingon Empire at the expense of the Cardassians in the face of the Dominion threat, and Worf is brought to DS9 to negotiate."
          },
          {
@@ -1122,10 +830,6 @@
             "date":"10/2/95",
             "rating":"9.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-way-of-the-warrior-2-20889/",
-               "alt":"The Way of the Warrior (2)"
-            },
             "description":"A Klingon fleet arrives on its way to expand the Klingon Empire at the expense of the Cardassians in the face of the Dominion threat, and Worf is brought to DS9 to negotiate."
          },
          {
@@ -1137,10 +841,6 @@
             "date":"10/9/95",
             "rating":"9.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-visitor-20890/",
-               "alt":"The Visitor"
-            },
             "description":"An elderly Jake Sisko relates the story of how he lost his father to a temporal displacement accident."
          },
          {
@@ -1152,10 +852,6 @@
             "date":"10/16/95",
             "rating":"8.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/hippocratic-oath-20891/",
-               "alt":"Hippocratic Oath"
-            },
             "description":"Bashir assists a rogue group of Jem'Hadar led by Goran'Agar attempting to overcome their genetic addiction to Ketracel White. Goran'Agar is able to survive without the White and enlists the aid of Bashir to try to understand why."
          },
          {
@@ -1167,10 +863,6 @@
             "date":"10/23/95",
             "rating":"8.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/indiscretion-20892/",
-               "alt":"Indiscretion"
-            },
             "description":"Forced to bring along Dukat on a personal mission to investigate the fate of the Ravinok, Kira discovers the real reason her old enemy wants to accompany her."
          },
          {
@@ -1182,10 +874,6 @@
             "date":"10/30/95",
             "rating":"7.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rejoined-20893/",
-               "alt":"Rejoined"
-            },
             "description":"Dax is reunited with Lenara Kahn, the widow of one of her former hosts, Torias Dax, and the two struggle with their feelings for one another."
          },
          {
@@ -1197,10 +885,6 @@
             "date":"11/6/95",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/starship-down-20894/",
-               "alt":"Starship Down"
-            },
             "description":"The USS Defiant becomes trapped in a planet's volatile atmosphere after battling with the Jem'Hadar."
          },
          {
@@ -1212,10 +896,6 @@
             "date":"11/13/95",
             "rating":"8.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/little-green-men-20895/",
-               "alt":"Little Green Men"
-            },
             "description":"Quark, Rom, Nog, and Odo are accidentally thrust back in time to Roswell, New Mexico, Earth, in 1947."
          },
          {
@@ -1227,10 +907,6 @@
             "date":"11/20/95",
             "rating":"7.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-sword-of-kahless-20896/",
-               "alt":"The Sword of Kahless"
-            },
             "description":"Worf, Dax and a revered Klingon Dahar master, Kor, search for the Sword of Kahless to unite the Klingon Empire."
          },
          {
@@ -1242,10 +918,6 @@
             "date":"11/27/95",
             "rating":"8.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/our-man-bashir-20897/",
-               "alt":"Our Man Bashir"
-            },
             "description":"Bashir plays a 1960s secret agent in a holosuite, when Garak arrives unexpectedly."
          },
          {
@@ -1257,10 +929,6 @@
             "date":"1/1/96",
             "rating":"9.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/homefront-1-20898/",
-               "alt":"Homefront (1)"
-            },
             "description":"Sisko and Odo are brought to Earth when it's suspected Changelings are infiltrating Starfleet."
          },
          {
@@ -1272,10 +940,6 @@
             "date":"1/8/96",
             "rating":"9.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/paradise-lost-2-20899/",
-               "alt":"Paradise Lost (2)"
-            },
             "description":"As Sisko and Odo prepare for a Dominion invasion they discover a plot to place the Federation under military control."
          },
          {
@@ -1287,10 +951,6 @@
             "date":"1/29/96",
             "rating":"7.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/crossfire-20900/",
-               "alt":"Crossfire"
-            },
             "description":"Odo's hidden feelings for Kira surface when the visiting Bajoran First Minister, Edon Shakaar, begins to court her."
          },
          {
@@ -1302,10 +962,6 @@
             "date":"2/5/96",
             "rating":"8.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/return-to-grace-20901/",
-               "alt":"Return to Grace"
-            },
             "description":"Dukat seeks Kira's help in regaining his rank in the Cardassian Empire."
          },
          {
@@ -1317,10 +973,6 @@
             "date":"2/12/96",
             "rating":"7.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/sons-of-mogh-20902/",
-               "alt":"Sons of Mogh"
-            },
             "description":"Cast out of Klingon society because of Worf's dishonor, his outcast brother, Kurn, asks Worf to kill him."
          },
          {
@@ -1332,10 +984,6 @@
             "date":"2/19/96",
             "rating":"7.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/bar-association-20903/",
-               "alt":"Bar Association"
-            },
             "description":"Rom creates a union for Quark's employees and goes on strike."
          },
          {
@@ -1347,10 +995,6 @@
             "date":"2/26/96",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/accession-20904/",
-               "alt":"Accession"
-            },
             "description":"A famous Bajoran poet, Akorem Laan, who disappeared over 200 years ago appears from the wormhole and convinces Sisko that he is the true Emissary."
          },
          {
@@ -1362,10 +1006,6 @@
             "date":"4/8/96",
             "rating":"7.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rules-of-engagement-20905/",
-               "alt":"Rules of Engagement"
-            },
             "description":"Worf accidentally destroys a civilian ship during battle and faces a hearing to determine whether he should be extradited to the Klingon Empire."
          },
          {
@@ -1377,10 +1017,6 @@
             "date":"4/15/96",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/hard-time-20906/",
-               "alt":"Hard Time"
-            },
             "description":"O'Brien's mind has been altered to create memories of being incarcerated for 20 years on an alien world on charges of espionage and sedition."
          },
          {
@@ -1392,10 +1028,6 @@
             "date":"4/22/96",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/shattered-mirror-20907/",
-               "alt":"Shattered Mirror"
-            },
             "description":"Sisko attempts to rescue Jake after he is lured into a war-torn mirror universe by his mother's living counterpart."
          },
          {
@@ -1407,10 +1039,6 @@
             "date":"4/29/96",
             "rating":"6.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-muse-20908/",
-               "alt":"The Muse"
-            },
             "description":"While Odo assists a pregnant Lwaxana Troi, Jake falls under the spell of a mysterious woman, Onaya."
          },
          {
@@ -1422,10 +1050,6 @@
             "date":"5/6/96",
             "rating":"8.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/for-the-cause-20909/",
-               "alt":"For the Cause"
-            },
             "description":"Sisko learns that his girlfriend Kasidy may be a Maquis smuggler."
          },
          {
@@ -1437,10 +1061,6 @@
             "date":"5/13/96",
             "rating":"8.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/to-the-death-20910/",
-               "alt":"To the Death"
-            },
             "description":"Sisko and the Defiant crew join forces with the Jem'Hadar to stop a group of Jem'Hadar renegades from gaining power."
          },
          {
@@ -1452,10 +1072,6 @@
             "date":"5/20/96",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-quickening-20911/",
-               "alt":"The Quickening"
-            },
             "description":"Bashir tries to free the population of a Gamma Quadrant world in the Teplan system of an engineered disease left by the Dominion 200 years ago."
          },
          {
@@ -1467,10 +1083,6 @@
             "date":"6/10/96",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/body-parts-20912/",
-               "alt":"Body Parts"
-            },
             "description":"Quark is diagnosed with a terminal disease, Dorek's Syndrome, and given a week to live."
          },
          {
@@ -1482,10 +1094,6 @@
             "date":"6/17/96",
             "rating":"8.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/broken-link-20913/",
-               "alt":"Broken Link"
-            },
             "description":"Odo collapses and is taken to the Infirmary. The doctor discovers Odo is losing his ability to maintain solid form."
          }
       ]
@@ -1502,10 +1110,6 @@
             "date":"9/30/96",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/apocalypse-rising-20914/",
-               "alt":"Apocalypse Rising"
-            },
             "description":"Starfleet assigns Sisko to expose the Changeling infiltrator in the Klingon Empire."
          },
          {
@@ -1517,10 +1121,6 @@
             "date":"10/7/96",
             "rating":"8.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-ship-20915/",
-               "alt":"The Ship"
-            },
             "description":"While exploring in the Gamma Quadrant, Sisko, Dax, Worf, and O'Brien see a Jem'Hadar warship crash on the planet's surface."
          },
          {
@@ -1532,10 +1132,6 @@
             "date":"10/14/96",
             "rating":"7.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/looking-for-parmach-in-all-the-wrong-places-20916/",
-               "alt":"Looking for par'Mach in All the Wrong Places"
-            },
             "description":"Worf finds himself attracted to Grilka, Quark's ex wife, when she visits the station."
          },
          {
@@ -1547,10 +1143,6 @@
             "date":"10/21/96",
             "rating":"8.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/nor-the-battle-to-the-strong-20917/",
-               "alt":"...Nor the Battle to the Strong"
-            },
             "description":"Dr. Bashir has been away at a conference and Jake Sisko accompanied him to research a profile he is writing about the doctor. Returning in a runabout, they get a distress call from a federation colony under Klingon attack."
          },
          {
@@ -1562,10 +1154,6 @@
             "date":"10/28/96",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-assignment-20918/",
-               "alt":"The Assignment"
-            },
             "description":"Keiko returns from a journey and informs O'Brien that she is really an entity that has taken possession of his wife's body."
          },
          {
@@ -1577,10 +1165,6 @@
             "date":"11/4/96",
             "rating":"9.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/trials-and-tribble-ations-20919/",
-               "alt":"Trials and Tribble-ations"
-            },
             "description":"Darvin, a disgraced Klingon spy, travels back in time. The DS9 crew must prevent him from altering the timeline."
          },
          {
@@ -1592,10 +1176,6 @@
             "date":"11/11/96",
             "rating":"6.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/let-he-who-is-without-sin--20920/",
-               "alt":"Let He Who Is Without Sin..."
-            },
             "description":"Worf and Dax vacation on the pleasure planet, Risa, and encounter unexpected dangers."
          },
          {
@@ -1607,10 +1187,6 @@
             "date":"11/18/96",
             "rating":"8.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/things-past-20921/",
-               "alt":"Things Past"
-            },
             "description":"Sisko, Odo, Dax and Garak are found unconscious. While Bashir attempts to revive their bodies, the four wake up during the Cardassian occupation of Bajor several years earlier."
          },
          {
@@ -1622,10 +1198,6 @@
             "date":"11/25/96",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-ascent-20922/",
-               "alt":"The Ascent"
-            },
             "description":"Forced to crash land on a desolate planet, Odo and Quark learn they lost their communications system, replicator, and most rations in an explosion."
          },
          {
@@ -1637,10 +1209,6 @@
             "date":"12/30/96",
             "rating":"8.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rapture-20923/",
-               "alt":"Rapture"
-            },
             "description":"An accident causes Sisko to have prophetic visions."
          },
          {
@@ -1652,10 +1220,6 @@
             "date":"1/6/97",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-darkness-and-the-light-20924/",
-               "alt":"The Darkness and the Light"
-            },
             "description":"Someone is killing Kira's friends off and she might be next."
          },
          {
@@ -1667,10 +1231,6 @@
             "date":"1/27/97",
             "rating":"8.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-begotten-20925/",
-               "alt":"The Begotten"
-            },
             "description":"When Quark discovers an infant Changeling, it has a profound effect on Odo. Meanwhile, Kira goes into labor."
          },
          {
@@ -1682,10 +1242,6 @@
             "date":"2/3/97",
             "rating":"8.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/for-the-uniform-20926/",
-               "alt":"For the Uniform"
-            },
             "description":"Michael Eddington returns and Sisko becomes obsessed with catching him."
          },
          {
@@ -1697,10 +1253,6 @@
             "date":"2/10/97",
             "rating":"9.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/in-purgatorys-shadow-1-20927/",
-               "alt":"In Purgatory's Shadow (1)"
-            },
             "description":"Worf and Garak journey to the Gamma Quadrant to investigate a coded Cardassian message."
          },
          {
@@ -1712,10 +1264,6 @@
             "date":"2/17/97",
             "rating":"9.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/by-infernos-light-2-20928/",
-               "alt":"By Inferno's Light (2)"
-            },
             "description":"Gul Dukat aligns the Cardassians with the Dominion. The station must deal with a Changeling infiltrator."
          },
          {
@@ -1727,10 +1275,6 @@
             "date":"2/24/97",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/doctor-bashir-i-presume-20929/",
-               "alt":"Doctor Bashir, I Presume?"
-            },
             "description":"Julian Bashir is selected to become the model for a Long-term Medical Hologram, until a family secret is revealed."
          },
          {
@@ -1742,10 +1286,6 @@
             "date":"3/31/97",
             "rating":"6.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/a-simple-investigation-20930/",
-               "alt":"A Simple Investigation"
-            },
             "description":"Odo falls in love with a woman, Arissa, involved in the Orion Syndicate."
          },
          {
@@ -1757,10 +1297,6 @@
             "date":"4/7/97",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/business-as-usual-20931/",
-               "alt":"Business as Usual"
-            },
             "description":"Quark becomes involved with a group of arms dealers, led by his cousin Gaila."
          },
          {
@@ -1772,10 +1308,6 @@
             "date":"4/14/97",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/ties-of-blood-and-water-20932/",
-               "alt":"Ties of Blood and Water"
-            },
             "description":"Tekeny Ghemor arrives on Deep Space Nine and reveals that he is dying."
          },
          {
@@ -1787,10 +1319,6 @@
             "date":"4/21/97",
             "rating":"7.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/ferengi-love-songs-20934/",
-               "alt":"Ferengi Love Songs"
-            },
             "description":"At the end of his rope, Quark returns home and discovers Moogie has a secret lover."
          },
          {
@@ -1802,10 +1330,6 @@
             "date":"4/28/97",
             "rating":"8.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/soldiers-of-the-empire-20935/",
-               "alt":"Soldiers of the Empire"
-            },
             "description":"Martok, Worf, and Dax go on a mission aboard a Klingon ship to search for the B'moth."
          },
          {
@@ -1817,10 +1341,6 @@
             "date":"5/5/97",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/children-of-time-20937/",
-               "alt":"Children of Time"
-            },
             "description":"An accident causes the crew to meet their own descendants - and presents them with an ethical dilemma."
          },
          {
@@ -1832,10 +1352,6 @@
             "date":"5/12/97",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/blaze-of-glory-20939/",
-               "alt":"Blaze of Glory"
-            },
             "description":"An act of desperation by the Maquis could plunge the Federation into war. The Maquis have 30 cloaked missiles headed to Cardassia which will cause an outbreak of war in the alpha quadrant."
          },
          {
@@ -1847,10 +1363,6 @@
             "date":"5/19/97",
             "rating":"8.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/empok-nor-20940/",
-               "alt":"Empok Nor"
-            },
             "description":"O'Brien, Garak, Nog and an engineering team go to Deep Space Nine's abandoned sister space station, Empok Nor, to salvage components. The away team soon discover that all is not as it seems."
          },
          {
@@ -1862,10 +1374,6 @@
             "date":"6/9/97",
             "rating":"8.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/in-the-cards-20943/",
-               "alt":"In the Cards"
-            },
             "description":"Jake wants to give his father a present to cheer him up, a 1951 Willie Mays baseball card, but runs into complications with a mysterious geneticist, Dr. Giger and a Dominion ambassador group."
          },
          {
@@ -1877,10 +1385,6 @@
             "date":"6/16/97",
             "rating":"9.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/call-to-arms-1-20945/",
-               "alt":"Call to Arms (1)"
-            },
             "description":"Faced with the realization that the Dominion are taking over the Alpha Quadrant, Sisko decides to mine the entrance to the wormhole with self-replicating cloaked mines, thus begins the Dominion War."
          }
       ]
@@ -1897,10 +1401,6 @@
             "date":"9/29/97",
             "rating":"9.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/a-time-to-stand-2-20947/",
-               "alt":"A Time to Stand (2)"
-            },
             "description":"Three months into the war, DS9 is still under Dominion control. Sisko and his crew are given a mission to destroy a vital Ketracel White facility deep in Dominion space by infiltrating Dominion space with a captured Jem'Hadar ship. Jake is working for the Federation News Service. Odo is head of Terok Nor's security supported by the Vorta Weyoun."
          },
          {
@@ -1912,10 +1412,6 @@
             "date":"10/6/97",
             "rating":"9.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/rocks-and-shoals-3-20950/",
-               "alt":"Rocks and Shoals (3)"
-            },
             "description":"Sisko and his tired crew crash on a planet where they encounter a band of Jem'Hadar."
          },
          {
@@ -1927,10 +1423,6 @@
             "date":"10/13/97",
             "rating":"7.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/sons-and-daughters-4-20953/",
-               "alt":"Sons and Daughters (4)"
-            },
             "description":"While on General Martok's ship Worf is reunited with his estranged son, Alexander."
          },
          {
@@ -1942,10 +1434,6 @@
             "date":"10/20/97",
             "rating":"8.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/behind-the-lines-5-20954/",
-               "alt":"Behind the Lines (5)"
-            },
             "description":"Sisko creates a risky plan to disable a critical Dominion sensor array able to see 5 sectors out, while on Terok Nor, Kira, Jake, Rom and Odo seek to undermine the Cardassian/Dominion Alliance."
          },
          {
@@ -1957,10 +1445,6 @@
             "date":"10/27/97",
             "rating":"9.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/favor-the-bold-6-20955/",
-               "alt":"Favor the Bold (6)"
-            },
             "description":"Learning of thousands of Dominion reinforcements gathering in the Gamma Quadrant, Sisko initiates a plan to retake Deep Space Nine and secure the wormhole before the minefield is detonated."
          },
          {
@@ -1972,10 +1456,6 @@
             "date":"11/3/97",
             "rating":"9.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/sacrifice-of-angels-7-20956/",
-               "alt":"Sacrifice of Angels (7)"
-            },
             "description":"Sisko commands the Defiant and 600 Federation ships against a Dominion/Cardassian armada to retake Deep Space Nine. Damar has Kira, Jake, and Leeta arrested."
          },
          {
@@ -1987,10 +1467,6 @@
             "date":"11/10/97",
             "rating":"8.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/you-are-cordially-invited--20957/",
-               "alt":"You Are Cordially Invited..."
-            },
             "description":"Worf's plans for a traditional Klingon wedding hinge on Martok's demanding wife, Sirella, accepting Dax into their family."
          },
          {
@@ -2002,10 +1478,6 @@
             "date":"11/17/97",
             "rating":"6.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/resurrection-20958/",
-               "alt":"Resurrection"
-            },
             "description":"The mirror universe counterpart of Kira's dead love, Vedek Bareil, takes her hostage on Deep Space Nine as he is running from the evil Alliance of his universe."
          },
          {
@@ -2017,10 +1489,6 @@
             "date":"11/24/97",
             "rating":"8.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/statistical-probabilities-20959/",
-               "alt":"Statistical Probabilities"
-            },
             "description":"Bashir attempts to reintegrate genetically-engineered misfits into society, but they are asked by Starfleet to become a think tank when they provide insightful analysis of upcoming Dominion peace talks."
          },
          {
@@ -2032,10 +1500,6 @@
             "date":"1/1/98",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-magnificent-ferengi-20960/",
-               "alt":"The Magnificent Ferengi"
-            },
             "description":"Quark mounts a rescue mission when his mother, Ishka, is captured by the Dominion and Grand Nagus Zek offers a reward for her return."
          },
          {
@@ -2047,10 +1511,6 @@
             "date":"1/8/98",
             "rating":"8.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/waltz-20961/",
-               "alt":"Waltz"
-            },
             "description":"Sisko meets with the former Cardassian leader Gul Dukat, now a prisoner, as he awaits a war crimes investigation."
          },
          {
@@ -2062,10 +1522,6 @@
             "date":"2/4/98",
             "rating":"8.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/who-mourns-for-morn-20962/",
-               "alt":"Who Mourns for Morn?"
-            },
             "description":"Morn is killed in an ion storm and Sisko informs Quark that Morn left his entire estate to him. But Quark has a little competition."
          },
          {
@@ -2077,10 +1533,6 @@
             "date":"2/11/98",
             "rating":"8.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/far-beyond-the-stars-20963/",
-               "alt":"Far Beyond the Stars"
-            },
             "description":"After Captain Swofford's ship, the Cortez, is destroyed, Sisko considers leaving Starfleet."
          },
          {
@@ -2092,10 +1544,6 @@
             "date":"2/18/98",
             "rating":"8.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/one-little-ship-20964/",
-               "alt":"One Little Ship"
-            },
             "description":"Dax, O'Brien, and Bashir board a Runabout, which is shrunken to four inches long as they investigate a rare subspace compression phenomenon."
          },
          {
@@ -2107,10 +1555,6 @@
             "date":"2/25/98",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/honor-among-thieves-20965/",
-               "alt":"Honor Among Thieves"
-            },
             "description":"Starfleet Intelligence recruits Chief O'Brien to infiltrate the Orion Syndicate to find a Starfleet informant."
          },
          {
@@ -2122,10 +1566,6 @@
             "date":"3/4/98",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/change-of-heart-20966/",
-               "alt":"Change of Heart"
-            },
             "description":"When Jadzia Dax is critically injured on an away mission, Worf must choose between saving his wife and completing their assignment."
          },
          {
@@ -2137,10 +1577,6 @@
             "date":"4/1/98",
             "rating":"7.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/wrongs-darker-than-death-or-night-20967/",
-               "alt":"Wrongs Darker than Death or Night"
-            },
             "description":"When Dukat reveals to Kira her mother, Kira Meru, did not die when she was three, but was actually his lover, Kira goes into the past using the Bajoran Orb of Time to find the truth."
          },
          {
@@ -2152,10 +1588,6 @@
             "date":"4/8/98",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/inquisition-20968/",
-               "alt":"Inquisition"
-            },
             "description":"Bashir is accused of unknowingly spying for the Dominion."
          },
          {
@@ -2167,10 +1599,6 @@
             "date":"4/15/98",
             "rating":"9.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/in-the-pale-moonlight-20970/",
-               "alt":"In the Pale Moonlight"
-            },
             "description":"Sisko asks Garak to help him get the Romulans to join the war against the Dominion."
          },
          {
@@ -2182,10 +1610,6 @@
             "date":"4/22/98",
             "rating":"7.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/his-way-20973/",
-               "alt":"His Way"
-            },
             "description":"Bashir shows off a new Holosuite program of a martini lounge with the 1960s Vegas singer named Vic Fontaine who is very perceptive; and gives advice to Odo when Kira visits her ex-lover Shakaar."
          },
          {
@@ -2197,10 +1621,6 @@
             "date":"4/29/98",
             "rating":"8.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-reckoning-20974/",
-               "alt":"The Reckoning"
-            },
             "description":"Sisko is called to Bajor when an ancient tablet addressing the Emissary is discovered at B'hala."
          },
          {
@@ -2212,10 +1632,6 @@
             "date":"5/6/98",
             "rating":"7.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/valiant-20976/",
-               "alt":"Valiant"
-            },
             "description":"Jake and Nog come under attack by the Jem'Hadar and are rescued by a rogue Defiant class starship, the Valiant, under the command of Starfleet Red Squadron cadets."
          },
          {
@@ -2227,10 +1643,6 @@
             "date":"5/13/98",
             "rating":"6.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/profit-and-lace-20979/",
-               "alt":"Profit and Lace"
-            },
             "description":"Quark helps out when Zek's status as the Ferengi Grand Nagus is put in jeopardy by proposing equal rights for Ferengi females."
          },
          {
@@ -2242,10 +1654,6 @@
             "date":"5/20/98",
             "rating":"6.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/times-orphan-20981/",
-               "alt":"Time's Orphan"
-            },
             "description":"Molly O'Brien disappears in a vortex and reappears as an 18-year-old woman, but she is now feral, bringing great difficulty for her parents."
          },
          {
@@ -2257,10 +1665,6 @@
             "date":"6/10/98",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-sound-of-her-voice-20983/",
-               "alt":"The Sound of Her Voice"
-            },
             "description":"The Defiant picks up a distress call from Captain Lisa Cusak, whose escape pod has crashed on a remote planet following the destruction of her ship, the Olympia."
          },
          {
@@ -2272,10 +1676,6 @@
             "date":"6/17/98",
             "rating":"9.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/tears-of-the-prophets-1-20984/",
-               "alt":"Tears of the Prophets (1)"
-            },
             "description":"Starfleet Command begins an offensive against the Dominion, and Sisko is chosen to lead the invasion of Cardassia, but the Cardassian/Dominion Alliance has secretly reinforced their borders with unmanned orbital weapons platforms."
          }
       ]
@@ -2292,10 +1692,6 @@
             "date":"9/30/98",
             "rating":"8.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/image-in-the-sand-2-20986/",
-               "alt":"Image in the Sand (2)"
-            },
             "description":"With the Bajoran wormhole collapsed, Sisko struggles for a way to contact the Bajoran Prophets. Kira opens a Romulan military hospital, and a new Dax appears on the scene."
          },
          {
@@ -2307,10 +1703,6 @@
             "date":"10/7/98",
             "rating":"8.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/shadows-and-symbols-3-20989/",
-               "alt":"Shadows and Symbols (3)"
-            },
             "description":"Sisko's quest leads him to the truth about his existence as Kira sets up a blockade of the Bajoran Moon, Derna, against the Romulans."
          },
          {
@@ -2322,10 +1714,6 @@
             "date":"10/14/98",
             "rating":"7.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/afterimage-20990/",
-               "alt":"Afterimage"
-            },
             "description":"Everyone who knew Jadzia Dax reacts strongly to Ezri Dax's presence, particularly Worf. Meanwhile Garak suffers from bad claustrophobic attacks."
          },
          {
@@ -2337,10 +1725,6 @@
             "date":"10/21/98",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/take-me-out-to-the-holosuite-20991/",
-               "alt":"Take Me Out to the Holosuite"
-            },
             "description":"Sisko must train his staff to play baseball when the Vulcans, led by Solok, challenge them to a game."
          },
          {
@@ -2352,10 +1736,6 @@
             "date":"10/28/98",
             "rating":"7.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/chrysalis-20992/",
-               "alt":"Chrysalis"
-            },
             "description":"Bashir falls for a genetically enhanced patient, Sarina Douglas, that he brought out of a catatonic state using an experimental medical procedure."
          },
          {
@@ -2367,10 +1747,6 @@
             "date":"11/4/98",
             "rating":"8.6",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/treachery-faith-and-the-great-river-20993/",
-               "alt":"Treachery, Faith and the Great River"
-            },
             "description":"A Vorta defector, Weyoun-6, gives Odo valuable information in exchange for asylum. Weyoun-7, the next clone in the series, pursues them. Meanwhile Nog engages in a series of barters to get a Graviton Stabilizer for Miles."
          },
          {
@@ -2382,10 +1758,6 @@
             "date":"11/11/98",
             "rating":"8.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/once-more-unto-the-breach-20995/",
-               "alt":"Once More Unto the Breach"
-            },
             "description":"Worf finds a battle assignment for Kor, an aging Klingon hero."
          },
          {
@@ -2397,10 +1769,6 @@
             "date":"11/18/98",
             "rating":"9.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-siege-of-ar-558-20997/",
-               "alt":"The Siege of AR-558"
-            },
             "description":"Sisko and crew relieve Starfleet troops under siege by Jem'Hadar at a key communications outpost, AR-558, the largest dominion communications array in the sector."
          },
          {
@@ -2412,10 +1780,6 @@
             "date":"11/25/98",
             "rating":"7.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/covenant-20999/",
-               "alt":"Covenant"
-            },
             "description":"Dukat, now a religious leader, holds Kira hostage. Mika, one of Dukat's followers, gives birth to a half-Cardassian child."
          },
          {
@@ -2427,10 +1791,6 @@
             "date":"12/30/98",
             "rating":"8.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/its-only-a-paper-moon-21002/",
-               "alt":"It's Only a Paper Moon"
-            },
             "description":"Nog struggles with PTSD and begins living with Vic Fontaine."
          },
          {
@@ -2442,10 +1802,6 @@
             "date":"1/6/99",
             "rating":"6.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/prodigal-daughter-21003/",
-               "alt":"Prodigal Daughter"
-            },
             "description":"Ezri goes to New Sydney to find O'Brien and uncovers some disturbing family secrets. Miles goes in search of the widow of Liam Bilby, Morica Bilby, whom he befriended in an undercover operation."
          },
          {
@@ -2457,10 +1813,6 @@
             "date":"2/3/99",
             "rating":"7.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-emperors-new-cloak-21005/",
-               "alt":"The Emperor's New Cloak"
-            },
             "description":"Quark and Rom cross into the alternate universe to rescue Grand Nagus Zek."
          },
          {
@@ -2472,10 +1824,6 @@
             "date":"2/10/99",
             "rating":"7.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/field-of-fire-21006/",
-               "alt":"Field of Fire"
-            },
             "description":"Ezri summons a homicidal Dax, Joran, incarnation to understand the mind of a killer in order to solve recent murders."
          },
          {
@@ -2487,10 +1835,6 @@
             "date":"2/17/99",
             "rating":"7.9",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/chimera-21007/",
-               "alt":"Chimera"
-            },
             "description":"A Changeling, Laas, asks Odo to leave the station and join his search for other shapeshifters. Laas was with the Varalans and has learned to assume a space-faring creatures form."
          },
          {
@@ -2502,10 +1846,6 @@
             "date":"2/24/99",
             "rating":"8.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/badda-bing-badda-bang-21008/",
-               "alt":"Badda-Bing, Badda-Bang"
-            },
             "description":"The crew attempt to help Vic Fontaine when Vic's hotel is bought by mobsters Frankie Eyes and Carl Zeemo."
          },
          {
@@ -2517,10 +1857,6 @@
             "date":"3/3/99",
             "rating":"9.1",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/inter-arma-enim-silent-leges-21010/",
-               "alt":"Inter Arma Enim Silent Leges"
-            },
             "description":"While attending a diplomatic conference on Romulus, Bashir becomes an unwilling pawn of Section 31."
          },
          {
@@ -2532,10 +1868,6 @@
             "date":"4/7/99",
             "rating":"8.4",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/penumbra-1-21011/",
-               "alt":"Penumbra (1)"
-            },
             "description":"Ezri searches for a missing Worf and Sisko makes plans to marry Kasidy Yates."
          },
          {
@@ -2547,10 +1879,6 @@
             "date":"4/14/99",
             "rating":"8.7",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/til-death-do-us-part-2-21012/",
-               "alt":"'Til Death Do Us Part (2)"
-            },
             "description":"Captured by the Breen, Ezri and Worf undergo mental torture. Sisko agonizes over his broken engagement."
          },
          {
@@ -2562,10 +1890,6 @@
             "date":"4/21/99",
             "rating":"8.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/strange-bedfellows-3-21014/",
-               "alt":"Strange Bedfellows (3)"
-            },
             "description":"An alliance is born between the Dominion and the Breen which will prove devastating for the Federation. Ezri and Worf are sentenced to death on Cardassia."
          },
          {
@@ -2577,10 +1901,6 @@
             "date":"4/28/99",
             "rating":"9.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-changing-face-of-evil-4-21016/",
-               "alt":"The Changing Face of Evil (4)"
-            },
             "description":"The war reaches a crucial turning point when the Dominion retakes the Chin'Toka system, the only Allied foothold in enemy space. Meanwhile, Winn learns that Dukat plans to release the Pah-Wraiths, and Damar leads a revolt against the Dominion."
          },
          {
@@ -2592,10 +1912,6 @@
             "date":"5/5/99",
             "rating":"8.8",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/when-it-rains-5-21018/",
-               "alt":"When It Rains... (5)"
-            },
             "description":"Sisko orders Kira to train Cardassians in resistance tactics as Damar's rebellion gains ground; meanwhile, Bashir makes a shocking discovery about the disease that is ravaging the Founders."
          },
          {
@@ -2607,10 +1923,6 @@
             "date":"5/12/99",
             "rating":"9.2",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/tacking-into-the-wind-6-21020/",
-               "alt":"Tacking Into the Wind (6)"
-            },
             "description":"Kira masterminds a plot to steal the Breen energy dampening weapon and Worf instigates a power shift in the Klingon Empire."
          },
          {
@@ -2622,10 +1934,6 @@
             "date":"5/19/99",
             "rating":"8.5",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/extreme-measures-7-21022/",
-               "alt":"Extreme Measures (7)"
-            },
             "description":"Bashir and O'Brien must get inside the mind of the man who holds Odo's cure."
          },
          {
@@ -2637,10 +1945,6 @@
             "date":"5/26/99",
             "rating":"9.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/the-dogs-of-war-8-21024/",
-               "alt":"The Dogs of War (8)"
-            },
             "description":"Sisko takes command of a new ship; Kira and Garak face a Dominion ambush on Cardassia."
          },
          {
@@ -2652,10 +1956,6 @@
             "date":"6/2/99",
             "rating":"9.3",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/what-you-leave-behind-1-21025/",
-               "alt":"What You Leave Behind (1)"
-            },
             "description":"Sisko leads the Federation/Klingon/Romulan alliance in the offensive on the Cardassian homeworld. Dukat and Winn journey to the fire caves to release the Pah'Wraiths, and Damar leads his people in a revolution in an attempt to overthrow their Dominion oppressors."
          },
          {
@@ -2667,10 +1967,6 @@
             "date":"6/2/99",
             "rating":"9.0",
             "watched":"false",
-            "img":{
-               "href":"http://www.tv.com/shows/star-trek-deep-space-nine/what-you-leave-behind-2-21027/",
-               "alt":"What You Leave Behind (2)"
-            },
             "description":"Sisko leads the Federation/Klingon/Romulan alliance in the offensive on the Cardassian homeworld. Dukat and Winn journey to the fire caves to release the Pah'Wraiths, and Damar leads his people in a revolution in an attempt to overthrow their Dominion oppressors."
          }
       ]
