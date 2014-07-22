@@ -9,15 +9,13 @@ var Seasons = React.createClass({
       $.ajax({
         url: this.props.url,
         success: function(data) {
-          //localStorage.setItem('episodes', JSON.stringify(data));
-          if (this.isMounted()) {
-            this.setState({data: data});
-            console.log(data);
-          }
+          localStorage.setItem('episodes', JSON.stringify(data));
+          this.setState({data: data});
+          console.log(data);
         }.bind(this)
       });
     } else {
-      //this.setState({data: JSON.parse(localEps)});
+      this.setState({data: JSON.parse(localEps)});
     }
   },
   componentDidMount: function() {
