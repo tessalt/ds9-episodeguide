@@ -42,7 +42,7 @@ var SeasonList = React.createClass({
       }.bind(this),
     });
   },
-  componentWillMount: function() {
+  componentDidMount: function() {
     this.loadPicks(function(picks){
       var seasons = [];
       $.each(this.props.seasons, function(index, season){
