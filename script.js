@@ -74,7 +74,7 @@ var Season = React.createClass({
       display: this.props.data.open
     }
   },
-  componentWillMount: function() {
+  componentDidMount: function() {
     var episodes = this.props.data.episodes;
     var picked = this.props.data.picks.map(function(pick, index){
       return episodes[pick - 1];
