@@ -18,7 +18,7 @@ var Seasons = React.createClass({
       this.setState({data: JSON.parse(localEps)});
     }
   },
-  componentWillMount: function() {
+  componentDidMount: function() {
     this.loadSeasonsFromServer();
   },
   render: function() {
