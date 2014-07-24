@@ -3,24 +3,36 @@ var Seasons = React.createClass({
   getInitialState: function() {
     return {data: []};
   },
+  getDefaultProps: function() {
+    return {
+      localEps: localStorage.getItem('episodes')
+    };
+  },
+  loadSeasonsFromLocalStorage: function() {
+    this.setState({
+      data: JSON.parse(this.props.localEps)
+    });
+  },
   loadSeasonsFromServer: function() {
-    var localEps = localStorage.getItem('episodes');
-    if (!localEps) {
-      $.ajax({
-        url: this.props.url,
-        success: function(data) {
-          if (this.isMounted()) {
-            localStorage.setItem('episodes', JSON.stringify(data));
-            this.setState({data: data});            
-          }
-        }.bind(this)
-      });
-    } else {
-      this.setState({data: JSON.parse(localEps)});
-    }
+    $.ajax({
+      url: this.props.url,
+      success: function(data) {
+        if (this.isMounted()) {
+          localStorage.setItem('episodes', JSON.stringify(data));
+          this.setState({data: data});            
+        }
+      }.bind(this)
+    });
   },
   componentWillMount: function() {
-    this.loadSeasonsFromServer();
+    if (!this.props.localEps) {
+      this.loadSeasonsFromServer();
+    }
+  },
+  componentDidMount: function() {
+    if (this.props.localEps) {
+      this.loadSeasonsFromLocalStorage();
+    }
   },
   render: function() {
     return (
