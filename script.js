@@ -9,22 +9,23 @@ var Seasons = React.createClass({
       $.ajax({
         url: this.props.url,
         success: function(data) {
-          localStorage.setItem('episodes', JSON.stringify(data));
-          this.setState({data: data});
-          console.log(data);
+          if (this.isMounted()) {
+            localStorage.setItem('episodes', JSON.stringify(data));
+            this.setState({data: data});            
+          }
         }.bind(this)
       });
     } else {
       this.setState({data: JSON.parse(localEps)});
     }
   },
-  componentDidMount: function() {
+  componentWillMount: function() {
     this.loadSeasonsFromServer();
   },
   render: function() {
     return (
       <div className="seasonList">
-        <SeasonList picks={this.state.picks} seasons={this.state.data} />
+        <SeasonList seasons={this.state.data} />        
       </div>
     )
   }
@@ -38,29 +39,31 @@ var SeasonList = React.createClass({
     $.ajax({
       url: 'data/picks.json',
       success: function(data) {
-        cb(data);
+        cb(data);        
       }.bind(this),
     });
   },
-  componentDidMount: function() {
+  componentWillReceiveProps: function() {
     this.loadPicks(function(picks){
-      var seasons = [];
-      $.each(this.props.seasons, function(index, season){
+      var seasons = [];      
+      $.each(this.props.seasons, function(index, season){        
         var seasonPicks = picks[index];
         var seasonObj = {
           open: season.open,
           episodes: season.episodes,
           picks: picks[index]
         }
-        seasons.push(seasonObj);
+        seasons.push(seasonObj);        
       });
-      this.setState({seasons: seasons})
+      if (this.isMounted()) {        
+        this.setState({seasons: seasons})
+      }
     }.bind(this));
   },
   render: function() {
     var seasonNodes = this.state.seasons.map(function (season, index) {
       return (
-        <Season key={index} data={season} />
+        <Season key={index} data={season} />        
       )
     });
     return <div>{seasonNodes}</div>;
@@ -79,7 +82,9 @@ var Season = React.createClass({
     var picked = this.props.data.picks.map(function(pick, index){
       return episodes[pick - 1];
     }.bind(this));
-    this.setState({filteredEps: picked});
+    if (this.isMounted()) {
+      this.setState({filteredEps: picked});
+    }
   },
   toggleDisplay: function() {
     var localEps = JSON.parse(localStorage.getItem('episodes'));
