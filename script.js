@@ -199,7 +199,14 @@ var WatchedIndicator = React.createClass({
 var Rating = React.createClass({
   render: function() {
     var rating = parseFloat(this.props.val);
-    var ratingClass = rating >= 8 ? 'high' : 'med';
+    if(rating < 8) {
+      var ratingClass = "low"
+    } else if (rating < 9) {
+      var ratingClass = "med"
+    } else {
+      var ratingClass = "high"
+    }
+
     return (
       <span className={'rating rating-' + ratingClass}>{this.props.val}</span>
     )

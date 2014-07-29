@@ -125,6 +125,10 @@ h3 {
   background: #B46A0B;
 }
 
+.episode .rating-low {
+  background: #9E6C2C;
+}
+
 .watched {
   font-size: 26px;
   padding: 16px 8px 20px 16px;
